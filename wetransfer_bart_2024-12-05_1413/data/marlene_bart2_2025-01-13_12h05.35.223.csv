@@ -1,0 +1,4 @@
+﻿trials_2.thisRepN,trials_2.thisTrialN,trials_2.thisN,trials_2.thisIndex,imageFile,maxPumps,resposta_.keys,resposta_.rt,mouse_1.x,mouse_1.y,mouse_1.leftButton,mouse_1.midButton,mouse_1.rightButton,mouse_1.time,mouse_1.clicked_name,mouse_2.x,mouse_2.y,mouse_2.leftButton,mouse_2.midButton,mouse_2.rightButton,mouse_2.time,mouse_2.clicked_name,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,,return,8.314847731000555,,,,,,,,,,,,,,,marlene,001,2025-01-13_12h05.35.223,bart2,2022.2.2,None,
+,,,,,,,,[0.5430555555555555],[-0.8111111111111111],[1],[0],[0],[9.802371986000253],['seta_avançar'],,,,,,,,marlene,001,2025-01-13_12h05.35.223,bart2,2022.2.2,None,
+,,,,,,,,,,,,,,,[0.5430555555555555],[-0.8133333333333334],[1],[0],[0],[2.1117269899996245],['seta_avançar_2'],marlene,001,2025-01-13_12h05.35.223,bart2,2022.2.2,None,

@@ -1,0 +1,250 @@
+8.4123 	WARNING 	User requested fullscreen with size [2560 1440], but screen is actually [1920, 1080]. Using actual size
+9.1219 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000225A1919518>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000225A1952CC0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.1224 	EXP 	window1: mouseVisible = True
+9.1225 	EXP 	window1: recordFrameIntervals = False
+9.2881 	EXP 	window1: recordFrameIntervals = True
+9.4704 	EXP 	window1: recordFrameIntervals = False
+9.6197 	EXP 	Created txt_checkFiles_start = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_checkFiles_start', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+9.6198 	EXP 	window1: mouseVisible = False
+9.7086 	EXP 	Created txt_checkFiles_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_checkFiles_end', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+9.7094 	EXP 	Created txt_resFileClashWarn = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_resFileClashWarn', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+9.7106 	EXP 	Created str_keyInst_pract = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='str_keyInst_pract', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=60)
+9.7113 	EXP 	Created txt_checkKeyMap = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_checkKeyMap', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+9.7234 	EXP 	Created text_checkKeyMapComplete = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_checkKeyMapComplete', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+9.7277 	EXP 	Created text_getReady = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_getReady', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='Prepare-se.', units='norm', win=Window(...), wrapWidth=1)
+9.7313 	EXP 	Created txt_fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='txt_fix', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='norm', win=Window(...), wrapWidth=1)
+9.7353 	EXP 	Created im_trialFace = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='im_trialFace', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='norm', win=Window(...))
+9.7375 	EXP 	Created im_trialFace_mask = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='im_trialFace_mask', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='norm', win=Window(...))
+9.7394 	EXP 	Created Im_dot = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='Im_dot', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='norm', win=Window(...))
+9.7401 	EXP 	Created str_rest = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='str_rest', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=60)
+9.7502 	EXP 	Created str_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='str_end', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=30)
+9.7828 	EXP 	txt_checkFiles_start: autoDraw = True
+11.7662 	EXP 	txt_checkFiles_start: autoDraw = False
+11.7662 	EXP 	txt_checkFiles_end: autoDraw = True
+12.5381 	DATA 	Keypress: space
+12.5399 	EXP 	txt_checkFiles_end: autoDraw = False
+12.5399 	EXP 	txt_resFileClashWarn: text = 'Task: FDOT_140222\n\nParticipant ID: 11\nSession: 1 \n\n\nAVISO: Já existem ficheiros para esta versão da experiência e participante\n\nAll results files have a unique timestamp, but this data will have the same participant and session identifiers as an existing data set.\n\nDo you want to continue with the entered participant & session information? \n\n\n[Researcher: Press Y to CONTINUE, press N to QUIT]'
+12.5399 	EXP 	txt_resFileClashWarn: autoDraw = False
+12.5399 	EXP 	str_keyInst_pract: text = 'Nesta tarefa, vamos medir a rapidez com que consegue detectar dois pontos. \n\nOs pontos podem aparecer na parte superior ou inferior do ecra, assim ":" ou assim ".." \n\nO seu trabalho e indicar  a orientacao dos pontos, pressionando o botao correspondente. \n\nCada tentativa comecara com uma cruz (+) no meio do ecra Deve focar a sua atencao nessa cruz. \n\nLogo apos a cruz desaparecer, dois rostos aparecerao rapidamente no ecra, um na parte superior e\noutro na parte inferior. \n\nOs pontos aparecerao de seguida. Assim que vir os pontos, deve indicar qual a orientacao deles,\npressionando o botao ":" ou o botao ".." o mais rapido e preciso possivel. Tanto a precisao quanto a\nrapidez sao importantes. \n\nPor favor, use os seus dedos indicadores e mantenha\nos nos dois botoes de resposta durante toda a\ntarefa. \n\nConseguira responder mais rapidamente se focar sempre a sua atencao na cruz. \n\nPor favor, informe o investigador se estiver pronto para continuar. \n \n\n[Investigador: Pressione a BARRA DE ESPACO para comecar a verificacao do mapa de teclas]\n'
+12.5399 	EXP 	str_keyInst_pract: autoDraw = True
+52.6923 	EXP 	Imported stimControl/keyMap.xlsx as conditions, 2 conditions, 3 params
+52.6932 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+52.6935 	EXP 	New trial (rep=0, index=0): {'key_disp': 'A', 'resp_disp': '..', 'key_inp': 'a'}
+52.6990 	DATA 	Keypress: space
+52.7005 	EXP 	str_keyInst_pract: autoDraw = False
+52.7005 	EXP 	txt_checkKeyMap: text = 'Pressione A para ..\n\n[Pressione A agora]'
+52.7005 	EXP 	txt_checkKeyMap: autoDraw = True
+62.4596 	EXP 	New trial (rep=0, index=1): {'key_disp': 'K', 'resp_disp': ':', 'key_inp': 'k'}
+62.4687 	DATA 	Keypress: a
+62.4703 	EXP 	txt_checkKeyMap: autoDraw = False
+62.4703 	EXP 	txt_checkKeyMap: text = 'Pressione K para :\n\n[Pressione K agora]'
+62.4703 	EXP 	txt_checkKeyMap: autoDraw = True
+63.6286 	DATA 	Keypress: k
+63.6534 	EXP 	txt_checkKeyMap: autoDraw = False
+63.6534 	EXP 	text_checkKeyMapComplete: autoDraw = True
+76.7927 	DATA 	Keypress: space
+76.8154 	EXP 	Imported stimControl\chooseTrialOrderFile_ver-1.xlsx as conditions, 9 conditions, 1 params
+76.8158 	EXP 	Created sequence: sequential, trialTypes=9, nReps=1, seed=None
+76.8160 	EXP 	New trial (rep=0, index=0): {'trialOrderFile': 'stimControl/trialOrder_ver-1_block-pract.xlsx'}
+76.8211 	EXP 	text_checkKeyMapComplete: autoDraw = False
+76.8211 	EXP 	text_getReady: autoDraw = True
+78.8384 	EXP 	Imported stimControl/trialOrder_ver-1_block-pract.xlsx as conditions, 4 conditions, 11 params
+78.8387 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+78.8389 	EXP 	New trial (rep=0, index=0): {'im_stimNo': 1, 'im_face_name_top': 'hapHF', 'im_face_name_bottom': 'neutHF', 'im_face_path': 'ImagesToUse/HN6.bmp', 'im_face_mask_path': 'ImagesToUse/HN6.bmp', 'im_dot_path': 'ImagesToUse/UPB.bmp', 'im_emo_top': 'happy', 'im_emo_bottom': 'neutral', 'im_dot_direc': 'vert', 'im_dot_loc': 'bottom', 'key_correct': 'k'}
+78.8647 	EXP 	text_getReady: autoDraw = False
+78.8647 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+78.8647 	EXP 	im_trialFace: image = 'ImagesToUse/HN6.bmp'
+78.8647 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+78.8647 	EXP 	im_trialFace_mask: image = 'ImagesToUse/HN6.bmp'
+78.8647 	EXP 	Im_dot: size = array([0.43229167, 1.        ])
+78.8647 	EXP 	Im_dot: image = 'ImagesToUse/UPB.bmp'
+78.8647 	EXP 	txt_fix: autoDraw = True
+79.8870 	EXP 	im_trialFace: autoDraw = True
+79.8915 	EXP 	txt_fix: autoDraw = False
+79.8915 	EXP 	im_trialFace: autoDraw = False
+79.8915 	EXP 	im_trialFace_mask: autoDraw = True
+79.9539 	EXP 	Im_dot: autoDraw = True
+79.9869 	EXP 	im_trialFace_mask: autoDraw = False
+80.8578 	DATA 	Keypress: k
+80.8736 	EXP 	New trial (rep=0, index=1): {'im_stimNo': 2, 'im_face_name_top': 'neutLK', 'im_face_name_bottom': 'hapLK', 'im_face_path': 'ImagesToUse/NH8.bmp', 'im_face_mask_path': 'ImagesToUse/NH8.bmp', 'im_dot_path': 'ImagesToUse/DOWNT.bmp', 'im_emo_top': 'neutral', 'im_emo_bottom': 'happy', 'im_dot_direc': 'horz', 'im_dot_loc': 'top', 'key_correct': 'a'}
+80.8953 	EXP 	txt_fix: autoDraw = False
+80.8953 	EXP 	im_trialFace: autoDraw = False
+80.8953 	EXP 	im_trialFace_mask: autoDraw = False
+80.8953 	EXP 	Im_dot: autoDraw = False
+80.8953 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+80.8953 	EXP 	im_trialFace: image = 'ImagesToUse/NH8.bmp'
+80.8953 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+80.8953 	EXP 	im_trialFace_mask: image = 'ImagesToUse/NH8.bmp'
+80.8953 	EXP 	Im_dot: size = array([0.43229167, 1.        ])
+80.8953 	EXP 	Im_dot: image = 'ImagesToUse/DOWNT.bmp'
+80.8953 	EXP 	txt_fix: autoDraw = True
+81.8870 	EXP 	im_trialFace: autoDraw = True
+81.9037 	EXP 	txt_fix: autoDraw = False
+81.9037 	EXP 	im_trialFace: autoDraw = False
+81.9037 	EXP 	im_trialFace_mask: autoDraw = True
+81.9871 	EXP 	Im_dot: autoDraw = True
+82.0033 	EXP 	im_trialFace_mask: autoDraw = False
+83.3939 	DATA 	Keypress: a
+83.4097 	EXP 	New trial (rep=0, index=2): {'im_stimNo': 3, 'im_face_name_top': 'fearAM', 'im_face_name_bottom': 'neutAM', 'im_face_path': 'ImagesToUse/FN7.bmp', 'im_face_mask_path': 'ImagesToUse/jumbledmask1.bmp', 'im_dot_path': 'ImagesToUse/DOWNT.bmp', 'im_emo_top': 'fear', 'im_emo_bottom': 'neutral', 'im_dot_direc': 'horz', 'im_dot_loc': 'top', 'key_correct': 'a'}
+83.4441 	EXP 	txt_fix: autoDraw = False
+83.4441 	EXP 	im_trialFace: autoDraw = False
+83.4441 	EXP 	im_trialFace_mask: autoDraw = False
+83.4441 	EXP 	Im_dot: autoDraw = False
+83.4441 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+83.4441 	EXP 	im_trialFace: image = 'ImagesToUse/FN7.bmp'
+83.4441 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+83.4441 	EXP 	im_trialFace_mask: image = 'ImagesToUse/jumbledmask1.bmp'
+83.4441 	EXP 	Im_dot: size = array([0.43229167, 1.        ])
+83.4441 	EXP 	Im_dot: image = 'ImagesToUse/DOWNT.bmp'
+83.4441 	EXP 	txt_fix: autoDraw = True
+84.4366 	EXP 	im_trialFace: autoDraw = True
+84.4537 	EXP 	txt_fix: autoDraw = False
+84.4537 	EXP 	im_trialFace: autoDraw = False
+84.4537 	EXP 	im_trialFace_mask: autoDraw = True
+84.5371 	EXP 	im_trialFace_mask: autoDraw = False
+84.5371 	EXP 	Im_dot: autoDraw = True
+85.0764 	DATA 	Keypress: k
+85.0927 	EXP 	New trial (rep=0, index=3): {'im_stimNo': 4, 'im_face_name_top': 'neutLK', 'im_face_name_bottom': 'neutLK', 'im_face_path': 'ImagesToUse/NN8.bmp', 'im_face_mask_path': 'ImagesToUse/jumbledmask1.bmp', 'im_dot_path': 'ImagesToUse/DOWNB.bmp', 'im_emo_top': 'neutral', 'im_emo_bottom': 'neutral', 'im_dot_direc': 'horz', 'im_dot_loc': 'bottom', 'key_correct': 'a'}
+85.1178 	EXP 	txt_fix: autoDraw = False
+85.1178 	EXP 	im_trialFace: autoDraw = False
+85.1178 	EXP 	im_trialFace_mask: autoDraw = False
+85.1178 	EXP 	Im_dot: autoDraw = False
+85.1178 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+85.1178 	EXP 	im_trialFace: image = 'ImagesToUse/NN8.bmp'
+85.1178 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+85.1178 	EXP 	im_trialFace_mask: image = 'ImagesToUse/jumbledmask1.bmp'
+85.1178 	EXP 	Im_dot: size = array([0.43229167, 1.        ])
+85.1178 	EXP 	Im_dot: image = 'ImagesToUse/DOWNB.bmp'
+85.1178 	EXP 	txt_fix: autoDraw = True
+86.1203 	EXP 	txt_fix: autoDraw = False
+86.1203 	EXP 	im_trialFace: autoDraw = True
+86.1370 	EXP 	im_trialFace: autoDraw = False
+86.1370 	EXP 	im_trialFace_mask: autoDraw = True
+86.2205 	EXP 	Im_dot: autoDraw = True
+86.2370 	EXP 	im_trialFace_mask: autoDraw = False
+87.0929 	DATA 	Keypress: a
+87.1227 	EXP 	txt_fix: autoDraw = False
+87.1227 	EXP 	im_trialFace: autoDraw = False
+87.1227 	EXP 	im_trialFace_mask: autoDraw = False
+87.1227 	EXP 	Im_dot: autoDraw = False
+87.1227 	EXP 	str_rest: text = 'Fim dos ensaios de teste.\n\nIrá iniciar de seguida a experiência.\n\n Por favor informe o investigador quando estiver preparado para continuar.\n\n[Investigador: Pressione BARRA de ESPAÇOS para continuar]'
+87.1227 	EXP 	str_rest: autoDraw = True
+94.7752 	EXP 	New trial (rep=0, index=1): {'trialOrderFile': 'stimControl/trialOrder_ver-1_block-1.xlsx'}
+94.7791 	DATA 	Keypress: space
+94.7864 	EXP 	str_rest: autoDraw = False
+94.7864 	EXP 	text_getReady: autoDraw = True
+96.8011 	EXP 	Imported stimControl/trialOrder_ver-1_block-1.xlsx as conditions, 12 conditions, 11 params
+96.8015 	EXP 	Created sequence: sequential, trialTypes=12, nReps=1, seed=None
+96.8018 	EXP 	New trial (rep=0, index=0): {'im_stimNo': 1, 'im_face_name_top': 'neutHU', 'im_face_name_bottom': 'neutHU', 'im_face_path': 'ImagesToUse/NN6.bmp', 'im_face_mask_path': 'ImagesToUse/NN6.bmp', 'im_dot_path': 'ImagesToUse/UPB.bmp', 'im_emo_top': 'neutral', 'im_emo_bottom': 'neutral', 'im_dot_direc': 'vert', 'im_dot_loc': 'bottom', 'key_correct': 'k'}
+96.8175 	EXP 	text_getReady: autoDraw = False
+96.8175 	EXP 	text_getReady: autoDraw = False
+96.8175 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+96.8175 	EXP 	im_trialFace: image = 'ImagesToUse/NN6.bmp'
+96.8175 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+96.8175 	EXP 	im_trialFace_mask: image = 'ImagesToUse/NN6.bmp'
+96.8175 	EXP 	Im_dot: size = array([0.43229167, 1.        ])
+96.8175 	EXP 	Im_dot: image = 'ImagesToUse/UPB.bmp'
+96.8175 	EXP 	txt_fix: autoDraw = True
+97.8195 	EXP 	txt_fix: autoDraw = False
+97.8195 	EXP 	im_trialFace: autoDraw = True
+97.8365 	EXP 	im_trialFace: autoDraw = False
+97.8365 	EXP 	im_trialFace_mask: autoDraw = True
+97.9200 	EXP 	im_trialFace_mask: autoDraw = False
+97.9200 	EXP 	Im_dot: autoDraw = True
+98.7101 	EXP 	New trial (rep=0, index=1): {'im_stimNo': 2, 'im_face_name_top': 'neutDT', 'im_face_name_bottom': 'fearDT', 'im_face_path': 'ImagesToUse/NF8.bmp', 'im_face_mask_path': 'ImagesToUse/NF8.bmp', 'im_dot_path': 'ImagesToUse/UPT.bmp', 'im_emo_top': 'neutral', 'im_emo_bottom': 'fear', 'im_dot_direc': 'vert', 'im_dot_loc': 'top', 'key_correct': 'k'}
+98.7396 	DATA 	Keypress: k
+98.7422 	EXP 	txt_fix: autoDraw = False
+98.7422 	EXP 	im_trialFace: autoDraw = False
+98.7422 	EXP 	im_trialFace_mask: autoDraw = False
+98.7422 	EXP 	Im_dot: autoDraw = False
+98.7422 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+98.7422 	EXP 	im_trialFace: image = 'ImagesToUse/NF8.bmp'
+98.7422 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+98.7422 	EXP 	im_trialFace_mask: image = 'ImagesToUse/NF8.bmp'
+98.7422 	EXP 	Im_dot: size = array([0.43125, 1.     ])
+98.7422 	EXP 	Im_dot: image = 'ImagesToUse/UPT.bmp'
+98.7422 	EXP 	txt_fix: autoDraw = True
+99.7199 	EXP 	im_trialFace: autoDraw = True
+99.7369 	EXP 	im_trialFace: autoDraw = False
+99.7369 	EXP 	im_trialFace_mask: autoDraw = True
+99.7531 	EXP 	txt_fix: autoDraw = False
+99.8204 	EXP 	Im_dot: autoDraw = True
+99.8368 	EXP 	im_trialFace_mask: autoDraw = False
+100.4587 	DATA 	Keypress: k
+100.4763 	EXP 	New trial (rep=0, index=2): {'im_stimNo': 3, 'im_face_name_top': 'fearSG', 'im_face_name_bottom': 'neutSG', 'im_face_path': 'ImagesToUse/FN1.bmp', 'im_face_mask_path': 'ImagesToUse/FN1.bmp', 'im_dot_path': 'ImagesToUse/DOWNT.bmp', 'im_emo_top': 'fear', 'im_emo_bottom': 'neutral', 'im_dot_direc': 'horz', 'im_dot_loc': 'top', 'key_correct': 'a'}
+100.5003 	EXP 	txt_fix: autoDraw = False
+100.5003 	EXP 	im_trialFace: autoDraw = False
+100.5003 	EXP 	im_trialFace_mask: autoDraw = False
+100.5003 	EXP 	Im_dot: autoDraw = False
+100.5003 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+100.5003 	EXP 	im_trialFace: image = 'ImagesToUse/FN1.bmp'
+100.5003 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+100.5003 	EXP 	im_trialFace_mask: image = 'ImagesToUse/FN1.bmp'
+100.5003 	EXP 	Im_dot: size = array([0.43229167, 1.        ])
+100.5003 	EXP 	Im_dot: image = 'ImagesToUse/DOWNT.bmp'
+100.5003 	EXP 	txt_fix: autoDraw = True
+101.5036 	EXP 	txt_fix: autoDraw = False
+101.5036 	EXP 	im_trialFace: autoDraw = True
+101.5036 	EXP 	im_trialFace_mask: autoDraw = True
+101.5202 	EXP 	im_trialFace: autoDraw = False
+101.5871 	EXP 	im_trialFace_mask: autoDraw = False
+101.5871 	EXP 	Im_dot: autoDraw = True
+102.1590 	DATA 	Keypress: a
+102.1773 	EXP 	New trial (rep=0, index=3): {'im_stimNo': 4, 'im_face_name_top': 'fearJL', 'im_face_name_bottom': 'neutJL', 'im_face_path': 'ImagesToUse/FN2.bmp', 'im_face_mask_path': 'ImagesToUse/FN2.bmp', 'im_dot_path': 'ImagesToUse/DOWNB.bmp', 'im_emo_top': 'fear', 'im_emo_bottom': 'neutral', 'im_dot_direc': 'horz', 'im_dot_loc': 'bottom', 'key_correct': 'a'}
+102.2024 	EXP 	txt_fix: autoDraw = False
+102.2024 	EXP 	im_trialFace: autoDraw = False
+102.2024 	EXP 	im_trialFace_mask: autoDraw = False
+102.2024 	EXP 	Im_dot: autoDraw = False
+102.2024 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+102.2024 	EXP 	im_trialFace: image = 'ImagesToUse/FN2.bmp'
+102.2024 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+102.2024 	EXP 	im_trialFace_mask: image = 'ImagesToUse/FN2.bmp'
+102.2024 	EXP 	Im_dot: size = array([0.43229167, 1.        ])
+102.2024 	EXP 	Im_dot: image = 'ImagesToUse/DOWNB.bmp'
+102.2024 	EXP 	txt_fix: autoDraw = True
+103.2033 	EXP 	txt_fix: autoDraw = False
+103.2033 	EXP 	im_trialFace: autoDraw = True
+103.2202 	EXP 	im_trialFace: autoDraw = False
+103.2202 	EXP 	im_trialFace_mask: autoDraw = True
+103.3034 	EXP 	im_trialFace_mask: autoDraw = False
+103.3034 	EXP 	Im_dot: autoDraw = True
+103.9406 	EXP 	New trial (rep=0, index=4): {'im_stimNo': 5, 'im_face_name_top': 'fearKB', 'im_face_name_bottom': 'neutKB', 'im_face_path': 'ImagesToUse/FN3.bmp', 'im_face_mask_path': 'ImagesToUse/FN3.bmp', 'im_dot_path': 'ImagesToUse/UPB.bmp', 'im_emo_top': 'fear', 'im_emo_bottom': 'neutral', 'im_dot_direc': 'vert', 'im_dot_loc': 'bottom', 'key_correct': 'k'}
+103.9600 	DATA 	Keypress: a
+103.9617 	EXP 	txt_fix: autoDraw = False
+103.9617 	EXP 	im_trialFace: autoDraw = False
+103.9617 	EXP 	im_trialFace_mask: autoDraw = False
+103.9617 	EXP 	Im_dot: autoDraw = False
+103.9617 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+103.9617 	EXP 	im_trialFace: image = 'ImagesToUse/FN3.bmp'
+103.9617 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+103.9617 	EXP 	im_trialFace_mask: image = 'ImagesToUse/FN3.bmp'
+103.9617 	EXP 	Im_dot: size = array([0.43229167, 1.        ])
+103.9617 	EXP 	Im_dot: image = 'ImagesToUse/UPB.bmp'
+103.9617 	EXP 	txt_fix: autoDraw = True
+104.9531 	EXP 	im_trialFace: autoDraw = True
+104.9701 	EXP 	txt_fix: autoDraw = False
+104.9701 	EXP 	im_trialFace: autoDraw = False
+104.9701 	EXP 	im_trialFace_mask: autoDraw = True
+105.0534 	EXP 	im_trialFace_mask: autoDraw = False
+105.0534 	EXP 	Im_dot: autoDraw = True
+105.6595 	EXP 	New trial (rep=0, index=5): {'im_stimNo': 6, 'im_face_name_top': 'neutRH', 'im_face_name_bottom': 'neutRH', 'im_face_path': 'ImagesToUse/NN2.bmp', 'im_face_mask_path': 'ImagesToUse/NN2.bmp', 'im_dot_path': 'ImagesToUse/DOWNB.bmp', 'im_emo_top': 'neutral', 'im_emo_bottom': 'neutral', 'im_dot_direc': 'horz', 'im_dot_loc': 'bottom', 'key_correct': 'a'}
+105.6857 	DATA 	Keypress: a
+105.6875 	EXP 	txt_fix: autoDraw = False
+105.6875 	EXP 	im_trialFace: autoDraw = False
+105.6875 	EXP 	im_trialFace_mask: autoDraw = False
+105.6875 	EXP 	Im_dot: autoDraw = False
+105.6875 	EXP 	im_trialFace: size = array([0.43229167, 1.        ])
+105.6875 	EXP 	im_trialFace: image = 'ImagesToUse/NN2.bmp'
+105.6875 	EXP 	im_trialFace_mask: size = array([0.43229167, 1.        ])
+105.6875 	EXP 	im_trialFace_mask: image = 'ImagesToUse/NN2.bmp'
+105.6875 	EXP 	Im_dot: size = array([0.43229167, 1.        ])
+105.6875 	EXP 	Im_dot: image = 'ImagesToUse/DOWNB.bmp'
+105.6875 	EXP 	txt_fix: autoDraw = True
+106.6875 	EXP 	im_trialFace: autoDraw = True
+106.7035 	EXP 	txt_fix: autoDraw = False
+106.7035 	EXP 	im_trialFace: autoDraw = False
+106.7035 	EXP 	im_trialFace_mask: autoDraw = True
+106.7877 	EXP 	im_trialFace_mask: autoDraw = False
+106.7877 	EXP 	Im_dot: autoDraw = True
+107.8089 	DATA 	Keypress: escape
+108.0641 	EXP 	window1: mouseVisible = True

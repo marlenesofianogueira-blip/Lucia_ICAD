@@ -1,0 +1,152 @@
+20.0088 	WARNING 	User requested fullscreen with size [1280  800], but screen is actually [1440, 900]. Using actual size
+21.3528 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+21.3536 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc61d402400>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fc5ee9c5370>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+21.3539 	EXP 	window1: mouseVisible = True
+21.3553 	EXP 	window1: mouseVisible = False
+21.3553 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+21.3553 	EXP 	window1: recordFrameIntervals = False
+21.4359 	EXP 	window1: recordFrameIntervals = True
+22.2695 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+22.3920 	EXP 	Created _fundo_branco_ = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='_fundo_branco_', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+22.4473 	EXP 	Created welcome_ = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='welcome_', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+22.4779 	EXP 	Created smile = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='smile_inicial.jpeg', interpolate=True, mask=None, maskParams=None, name='smile', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.4, 0.4]), texRes=128.0, units='norm', win=Window(...))
+22.4910 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.029, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.55]), rgb=UNKNOWN, text="\n\nPara avançar pressione a tecla 'ENTER'", units='norm', win=Window(...), wrapWidth=1)
+22.5738 	EXP 	Created fundo_branco = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='fundo_branco', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+22.5783 	EXP 	Created fundobranco = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='fundobranco', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+22.6272 	EXP 	Created balão = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='redBalloon.png', interpolate=True, mask=None, maskParams=None, name='balão', opacity=1.0, ori=0.0, pos=array([-0.6,  0.3]), size=array([0.18, 0.18]), texRes=128.0, units='height', win=Window(...))
+22.6315 	EXP 	Created euro = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='euro', opacity=1.0, ori=0.0, pos=array([0.6, 0.3]), size=array([0.18, 0.18]), texRes=128.0, units='height', win=Window(...))
+22.6354 	EXP 	Created balão_rebentado = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='balão_rebentado', opacity=1.0, ori=0.0, pos=array([-0.6, -0.1]), size=array([0.27, 0.27]), texRes=128.0, units='height', win=Window(...))
+22.6392 	EXP 	Created perder_dinheiro = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='perder_dinheiro', opacity=1.0, ori=0.0, pos=array([ 0.6, -0.1]), size=array([0.3 , 0.25]), texRes=128.0, units='height', win=Window(...))
+22.6701 	EXP 	Created instruções1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.09, italic=False, languageStyle='LTR', name='instruções1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+22.6920 	EXP 	Created seta_avançar = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='Seta1.png', interpolate=True, mask=None, maskParams=None, name='seta_avançar', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.8]), size=array([0.25, 0.15]), texRes=128.0, units='norm', win=Window(...))
+22.6983 	EXP 	Created text_avançar_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_avançar_2', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.8]), rgb=UNKNOWN, text='Avançar', units='norm', win=Window(...), wrapWidth=1)
+22.6984 	EXP 	window1: mouseVisible = True
+22.7807 	EXP 	Created fundobranco1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='fundobranco1', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+22.8252 	EXP 	Created enter_tecla = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='enter_tecla.jpeg', interpolate=True, mask=None, maskParams=None, name='enter_tecla', opacity=1.0, ori=0.0, pos=array([-0.63, -0.15]), size=array([0.33, 0.09]), texRes=128.0, units='height', win=Window(...))
+22.8649 	EXP 	Created instruções2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='instruções2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+22.8687 	EXP 	Created encher_balão = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='encher_balão', opacity=1.0, ori=0.0, pos=array([0.43, 0.02]), size=array([0.15, 0.15]), texRes=128.0, units='height', win=Window(...))
+22.9786 	EXP 	Created guardar_dinheiro = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='guardar_dinheiro.jpeg', interpolate=True, mask=None, maskParams=None, name='guardar_dinheiro', opacity=1.0, ori=0.0, pos=array([ 0.55, -0.15]), size=array([0.17, 0.16]), texRes=128.0, units='height', win=Window(...))
+23.0006 	EXP 	Created seta_avançar_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, image='Seta1.png', interpolate=True, mask=None, maskParams=None, name='seta_avançar_2', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.8]), size=array([0.25, 0.15]), texRes=128.0, units='norm', win=Window(...))
+23.0040 	EXP 	Created text_avançar = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_avançar', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.8]), rgb=UNKNOWN, text='Avançar', units='norm', win=Window(...), wrapWidth=1)
+23.0041 	EXP 	window1: mouseVisible = True
+23.0086 	EXP 	Created fundobranco2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='fundobranco2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+23.0121 	EXP 	Created balloonBody = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='balloonBody', opacity=1.0, ori=270.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128.0, units='height', win=Window(...))
+23.0164 	EXP 	Created molduraRM1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='molduraRM1', opacity=1.0, ori=0.0, pos=array([-0.4, -0.4]), size=array([0.8, 0.5]), texRes=128.0, units='height', win=Window(...))
+23.0210 	EXP 	Created molduraRM2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='molduraRM2', opacity=1.0, ori=0.0, pos=array([ 0.4, -0.4]), size=array([0.8, 0.5]), texRes=128.0, units='height', win=Window(...))
+23.0250 	EXP 	Created molduraBVM = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='molduraBVM', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), size=array([0.8, 0.5]), texRes=128.0, units='height', win=Window(...))
+23.0285 	EXP 	Created molduraBM = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='molduraBM', opacity=1.0, ori=0.0, pos=array([0.65, 0.4 ]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+23.0369 	EXP 	Created reminderMsg1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-8.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.02, italic=False, languageStyle='LTR', name='reminderMsg1', opacity=1.0, ori=0.0, pos=array([-0.4, -0.4]), rgb=UNKNOWN, text='ESPAÇO para encher o balão', units='height', win=Window(...), wrapWidth=1)
+23.0424 	EXP 	Created reminderMsg2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-9.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.02, italic=False, languageStyle='LTR', name='reminderMsg2', opacity=1.0, ori=0.0, pos=array([ 0.4, -0.4]), rgb=UNKNOWN, text='ENTER para guardar o valor deste balão', units='height', win=Window(...), wrapWidth=1)
+23.0436 	EXP 	Created balloonValMsg = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-10.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='balloonValMsg', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.0447 	EXP 	Created bankedMsg = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-11.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='bankedMsg', opacity=1.0, ori=0.0, pos=array([0.5, 0.4]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+23.0487 	EXP 	Created fundobranco3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='fundobranco3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+23.1284 	EXP 	Created feedbackMsg22 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.09, italic=False, languageStyle='LTR', name='feedbackMsg22', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+23.2136 	EXP 	Created fundobranco4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='fundobranco4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+23.2150 	EXP 	Created finalScore = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='finalScore', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+23.3013 	EXP 	Created _fundo_branco_final = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='_fundo_branco_final', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+23.3174 	EXP 	Created farwell_ = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='farwell_', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+23.3409 	EXP 	Created smile_final = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='smile_final.jpeg', interpolate=True, mask=None, maskParams=None, name='smile_final', opacity=1.0, ori=0.0, pos=array([ 0. , -0.1]), size=array([0.4, 0.4]), texRes=128.0, units='norm', win=Window(...))
+23.3703 	WARNING 	t of last frame was 1101.22ms (=1/0)
+23.3703 	EXP 	_fundo_branco_: autoDraw = True
+23.3703 	EXP 	welcome_: autoDraw = True
+23.3703 	EXP 	smile: autoDraw = True
+23.5358 	WARNING 	t of last frame was 22.87ms (=1/43)
+23.6853 	WARNING 	t of last frame was 22.00ms (=1/45)
+24.4016 	WARNING 	t of last frame was 22.24ms (=1/44)
+25.0017 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+25.3417 	EXP 	text_3: autoDraw = True
+31.6647 	DATA 	Keypress: return
+31.7026 	EXP 	_fundo_branco_: autoDraw = False
+31.7026 	EXP 	welcome_: autoDraw = False
+31.7026 	EXP 	smile: autoDraw = False
+31.7026 	EXP 	text_3: autoDraw = False
+31.7026 	EXP 	fundo_branco: autoDraw = True
+32.8306 	EXP 	fundo_branco: autoDraw = False
+32.8306 	EXP 	fundobranco: image = 'branco.jpeg'
+32.8306 	EXP 	euro: image = 'euro.png'
+32.8306 	EXP 	balão_rebentado: image = 'balao_rebentado.jpeg'
+32.8306 	EXP 	perder_dinheiro: image = 'perder_dinheiro.jpeg'
+32.8306 	EXP 	fundobranco: autoDraw = True
+32.8306 	EXP 	balão: autoDraw = True
+32.8306 	EXP 	euro: autoDraw = True
+32.8306 	EXP 	balão_rebentado: autoDraw = True
+32.8306 	EXP 	perder_dinheiro: autoDraw = True
+32.8306 	EXP 	instruções1: autoDraw = True
+32.8306 	EXP 	seta_avançar: autoDraw = True
+32.8306 	EXP 	text_avançar_2: autoDraw = True
+36.3626 	DATA 	Keypress: right
+42.5997 	DATA 	Mouse: Left button down, pos=(1111,85)
+42.6319 	EXP 	fundobranco: autoDraw = False
+42.6319 	EXP 	balão: autoDraw = False
+42.6319 	EXP 	euro: autoDraw = False
+42.6319 	EXP 	balão_rebentado: autoDraw = False
+42.6319 	EXP 	perder_dinheiro: autoDraw = False
+42.6319 	EXP 	instruções1: autoDraw = False
+42.6319 	EXP 	seta_avançar: autoDraw = False
+42.6319 	EXP 	text_avançar_2: autoDraw = False
+42.6319 	EXP 	encher_balão: image = 'encher_balao.jpeg'
+42.6319 	EXP 	fundobranco1: autoDraw = True
+42.6319 	EXP 	enter_tecla: autoDraw = True
+42.6319 	EXP 	instruções2: autoDraw = True
+42.6319 	EXP 	encher_balão: autoDraw = True
+42.6319 	EXP 	guardar_dinheiro: autoDraw = True
+42.6319 	EXP 	seta_avançar_2: autoDraw = True
+42.6319 	EXP 	text_avançar: autoDraw = True
+42.7626 	DATA 	Mouse:  Left button up, pos=(1111,85)
+44.7227 	DATA 	Mouse: Left button down, pos=(1111,84)
+44.7391 	EXP 	Imported trialTypes_B1.xlsx as conditions, 128 conditions, 2 params
+44.7437 	EXP 	Created sequence: random, trialTypes=128, nReps=1, seed=None
+44.7440 	EXP 	New trial (rep=0, index=0): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 47}
+44.8427 	EXP 	fundobranco1: autoDraw = False
+44.8427 	EXP 	enter_tecla: autoDraw = False
+44.8427 	EXP 	instruções2: autoDraw = False
+44.8427 	EXP 	encher_balão: autoDraw = False
+44.8427 	EXP 	guardar_dinheiro: autoDraw = False
+44.8427 	EXP 	seta_avançar_2: autoDraw = False
+44.8427 	EXP 	text_avançar: autoDraw = False
+44.8427 	EXP 	fundobranco2: image = 'branco.jpeg'
+44.8427 	EXP 	balloonBody: image = 'redBalloon.png'
+44.8427 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+44.8427 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+44.8427 	EXP 	molduraBVM: image = 'molduraBVM.png'
+44.8427 	EXP 	molduraBM: image = 'Bau.png'
+44.8427 	EXP 	fundobranco2: autoDraw = True
+44.8427 	EXP 	balloonBody: autoDraw = True
+44.8427 	EXP 	molduraRM1: autoDraw = True
+44.8427 	EXP 	molduraRM2: autoDraw = True
+44.8427 	EXP 	molduraBVM: autoDraw = True
+44.8427 	EXP 	molduraBM: autoDraw = True
+44.8427 	EXP 	reminderMsg1: autoDraw = True
+44.8427 	EXP 	reminderMsg2: autoDraw = True
+44.8427 	EXP 	balloonValMsg: autoDraw = True
+44.8427 	EXP 	bankedMsg: autoDraw = True
+44.8728 	DATA 	Mouse:  Left button up, pos=(1111,84)
+47.8093 	DATA 	Keypress: space
+47.9805 	DATA 	Keypress: space
+48.1945 	DATA 	Keypress: space
+48.3652 	DATA 	Keypress: space
+48.5261 	DATA 	Keypress: space
+48.6907 	DATA 	Keypress: space
+48.8483 	DATA 	Keypress: space
+48.9975 	DATA 	Keypress: space
+49.1553 	DATA 	Keypress: space
+49.3305 	DATA 	Keypress: space
+49.5045 	DATA 	Keypress: space
+49.6666 	DATA 	Keypress: space
+49.8701 	DATA 	Keypress: space
+50.2559 	DATA 	Keypress: space
+50.4671 	DATA 	Keypress: space
+50.6496 	DATA 	Keypress: space
+50.8393 	DATA 	Keypress: space
+51.0248 	DATA 	Keypress: space
+51.1818 	DATA 	Keypress: space
+51.3503 	DATA 	Keypress: space
+51.5108 	DATA 	Keypress: space
+55.5829 	DATA 	Keypress: escape
+56.4039 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,1159 @@
+16.7039 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fcf34787250>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fcf347871f0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fcf34787040>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fcf376a7f40>, multiSample=False, name='window1', numSamples=2, pos=[320.0, 200.0], screen=0, size=array([2560, 1600]), stencilBits=8, stereo=False, title='PsychoPy', units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.7041 	EXP 	window1: mouseVisible = True
+16.7042 	EXP 	window1: backgroundImage = ''
+16.7042 	EXP 	window1: backgroundFit = 'none'
+16.7085 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+16.7086 	EXP 	window1: recordFrameIntervals = False
+16.8694 	EXP 	window1: recordFrameIntervals = True
+17.0532 	EXP 	Screen (0) actual frame rate measured at 59.91Hz
+17.0533 	EXP 	window1: recordFrameIntervals = False
+17.0543 	EXP 	window1: mouseVisible = False
+17.0544 	EXP 	bart2: status = STARTED
+17.0548 	EXP 	window1: mouseVisible = True
+17.1928 	EXP 	Created _fundo_branco_ = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='_fundo_branco_', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+17.1932 	EXP 	window1: mouseVisible = True
+17.2528 	EXP 	Created welcome_ = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='welcome_', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+17.2530 	EXP 	window1: mouseVisible = True
+17.7100 	EXP 	Created smile = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='smile_inicial.jpeg', interpolate=True, mask=None, maskParams=None, name='smile', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.4, 0.4]), texRes=128.0, units='norm', win=Window(...))
+17.7102 	EXP 	window1: mouseVisible = True
+17.7268 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.029000000000000005, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.55]), rgb=UNKNOWN, text="\n\nPara avançar pressione a tecla 'ENTER'", units='norm', win=Window(...), wrapWidth=1)
+17.7270 	EXP 	window1: mouseVisible = True
+17.8464 	EXP 	Created fundo_branco = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='fundo_branco', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+17.8466 	EXP 	window1: mouseVisible = True
+17.8684 	EXP 	Created fundobranco = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fundobranco', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+17.8685 	EXP 	window1: mouseVisible = True
+17.9383 	EXP 	Created balão = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='redBalloon.png', interpolate=True, mask=None, maskParams=None, name='balão', opacity=1.0, ori=0.0, pos=array([-0.6,  0.3]), size=array([0.18, 0.18]), texRes=128.0, units='height', win=Window(...))
+17.9385 	EXP 	window1: mouseVisible = True
+17.9573 	EXP 	Created euro = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='euro', opacity=1.0, ori=0.0, pos=array([0.6, 0.3]), size=array([0.18, 0.18]), texRes=128.0, units='height', win=Window(...))
+17.9575 	EXP 	window1: mouseVisible = True
+17.9754 	EXP 	Created balão_rebentado = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='balão_rebentado', opacity=1.0, ori=0.0, pos=array([-0.6, -0.1]), size=array([0.27, 0.27]), texRes=128.0, units='height', win=Window(...))
+17.9756 	EXP 	window1: mouseVisible = True
+17.9934 	EXP 	Created perder_dinheiro = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='perder_dinheiro', opacity=1.0, ori=0.0, pos=array([ 0.6, -0.1]), size=array([0.3 , 0.25]), texRes=128.0, units='height', win=Window(...))
+17.9936 	EXP 	window1: mouseVisible = True
+18.0349 	EXP 	Created instruções1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.09, italic=False, languageStyle='LTR', name='instruções1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+18.0352 	EXP 	window1: mouseVisible = True
+18.0653 	EXP 	Created seta_avançar = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, draggable=False, flipHoriz=False, flipVert=False, image='Seta1.png', interpolate=True, mask=None, maskParams=None, name='seta_avançar', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.8]), size=array([0.25, 0.15]), texRes=128.0, units='norm', win=Window(...))
+18.0655 	EXP 	window1: mouseVisible = True
+18.0735 	EXP 	Created text_avançar_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_avançar_2', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.8]), rgb=UNKNOWN, text='Avançar', units='norm', win=Window(...), wrapWidth=1)
+18.0736 	EXP 	window1: mouseVisible = True
+18.0738 	EXP 	window1: mouseVisible = True
+18.1933 	EXP 	Created fundobranco1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='fundobranco1', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+18.1935 	EXP 	window1: mouseVisible = True
+18.2505 	EXP 	Created enter_tecla = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='enter_tecla.jpeg', interpolate=True, mask=None, maskParams=None, name='enter_tecla', opacity=1.0, ori=0.0, pos=array([-0.63, -0.15]), size=array([0.33, 0.09]), texRes=128.0, units='height', win=Window(...))
+18.2506 	EXP 	window1: mouseVisible = True
+18.3052 	EXP 	Created instruções2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='instruções2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+18.3055 	EXP 	window1: mouseVisible = True
+18.3250 	EXP 	Created encher_balão = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='encher_balão', opacity=1.0, ori=0.0, pos=array([0.43, 0.02]), size=array([0.15, 0.15]), texRes=128.0, units='height', win=Window(...))
+18.3251 	EXP 	window1: mouseVisible = True
+18.4640 	EXP 	Created guardar_dinheiro = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, image='guardar_dinheiro.jpeg', interpolate=True, mask=None, maskParams=None, name='guardar_dinheiro', opacity=1.0, ori=0.0, pos=array([ 0.55, -0.15]), size=array([0.17, 0.16]), texRes=128.0, units='height', win=Window(...))
+18.4642 	EXP 	window1: mouseVisible = True
+18.4927 	EXP 	Created seta_avançar_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, image='Seta1.png', interpolate=True, mask=None, maskParams=None, name='seta_avançar_2', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.8]), size=array([0.25, 0.15]), texRes=128.0, units='norm', win=Window(...))
+18.4929 	EXP 	window1: mouseVisible = True
+18.4970 	EXP 	Created text_avançar = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_avançar', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.8]), rgb=UNKNOWN, text='Avançar', units='norm', win=Window(...), wrapWidth=1)
+18.4972 	EXP 	window1: mouseVisible = True
+18.4973 	EXP 	window1: mouseVisible = True
+18.5167 	EXP 	Created fundobranco2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fundobranco2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+18.5169 	EXP 	window1: mouseVisible = True
+18.5353 	EXP 	Created balloonBody = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='balloonBody', opacity=1.0, ori=270.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128.0, units='height', win=Window(...))
+18.5355 	EXP 	window1: mouseVisible = True
+18.5535 	EXP 	Created molduraRM1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='molduraRM1', opacity=1.0, ori=0.0, pos=array([-0.4, -0.4]), size=array([0.32, 0.32]), texRes=128.0, units='height', win=Window(...))
+18.5537 	EXP 	window1: mouseVisible = True
+18.5726 	EXP 	Created molduraRM2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='molduraRM2', opacity=1.0, ori=0.0, pos=array([ 0.4, -0.4]), size=array([0.32, 0.32]), texRes=128.0, units='height', win=Window(...))
+18.5728 	EXP 	window1: mouseVisible = True
+18.5915 	EXP 	Created molduraBVM = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='molduraBVM', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), size=array([0.32, 0.32]), texRes=128.0, units='height', win=Window(...))
+18.5916 	EXP 	window1: mouseVisible = True
+18.6094 	EXP 	Created molduraBM = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='molduraBM', opacity=1.0, ori=0.0, pos=array([0.65, 0.4 ]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+18.6096 	EXP 	window1: mouseVisible = True
+18.6211 	EXP 	Created reminderMsg1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-8.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.02, italic=False, languageStyle='LTR', name='reminderMsg1', opacity=1.0, ori=0.0, pos=array([-0.4, -0.4]), rgb=UNKNOWN, text='ESPAÇO para encher o balão', units='height', win=Window(...), wrapWidth=1)
+18.6213 	EXP 	window1: mouseVisible = True
+18.6296 	EXP 	Created reminderMsg2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-9.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.02, italic=False, languageStyle='LTR', name='reminderMsg2', opacity=1.0, ori=0.0, pos=array([ 0.4, -0.4]), rgb=UNKNOWN, text='ENTER para guardar o valor deste balão', units='height', win=Window(...), wrapWidth=1)
+18.6298 	EXP 	window1: mouseVisible = True
+18.6317 	EXP 	Created balloonValMsg = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-10.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='balloonValMsg', opacity=1.0, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.6319 	EXP 	window1: mouseVisible = True
+18.6337 	EXP 	Created bankedMsg = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-11.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='bankedMsg', opacity=1.0, ori=0.0, pos=array([0.5, 0.4]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.6338 	EXP 	window1: mouseVisible = True
+18.6523 	EXP 	Created fundobranco3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='fundobranco3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+18.8420 	EXP 	window1: mouseVisible = True
+18.8450 	EXP 	Created feedbackMsg22 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.09, italic=False, languageStyle='LTR', name='feedbackMsg22', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+18.8452 	EXP 	window1: mouseVisible = True
+18.9896 	EXP 	Created fundobranco4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='fundobranco4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+18.9899 	EXP 	window1: mouseVisible = True
+18.9927 	EXP 	Created finalScore = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='finalScore', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+18.9929 	EXP 	window1: mouseVisible = True
+19.1334 	EXP 	Created _fundo_branco_final = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='branco.jpeg', interpolate=True, mask=None, maskParams=None, name='_fundo_branco_final', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='norm', win=Window(...))
+19.1337 	EXP 	window1: mouseVisible = True
+19.1735 	EXP 	Created farwell_ = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Comic Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='farwell_', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+19.1738 	EXP 	window1: mouseVisible = True
+19.2070 	EXP 	Created smile_final = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='smile_final.jpeg', interpolate=True, mask=None, maskParams=None, name='smile_final', opacity=1.0, ori=0.0, pos=array([ 0. , -0.1]), size=array([0.4, 0.4]), texRes=128.0, units='norm', win=Window(...))
+0.0558 	EXP 	_fundo_branco_: autoDraw = True
+0.0558 	EXP 	welcome_: autoDraw = True
+0.0558 	EXP 	smile: autoDraw = True
+2.0135 	EXP 	text_3: autoDraw = True
+6.3765 	DATA 	Keypress: return
+6.4276 	EXP 	_fundo_branco_: autoDraw = False
+6.4276 	EXP 	welcome_: autoDraw = False
+6.4276 	EXP 	smile: autoDraw = False
+6.4276 	EXP 	text_3: autoDraw = False
+6.4276 	EXP 	fundo_branco: autoDraw = True
+7.6358 	EXP 	fundo_branco: autoDraw = False
+7.6358 	EXP 	fundobranco: image = 'branco.jpeg'
+7.6358 	EXP 	euro: image = 'euro.png'
+7.6358 	EXP 	balão_rebentado: image = 'balao_rebentado.jpeg'
+7.6358 	EXP 	perder_dinheiro: image = 'perder_dinheiro.jpeg'
+7.6358 	EXP 	fundobranco: autoDraw = True
+7.6358 	EXP 	balão: autoDraw = True
+7.6358 	EXP 	euro: autoDraw = True
+7.6358 	EXP 	balão_rebentado: autoDraw = True
+7.6358 	EXP 	perder_dinheiro: autoDraw = True
+7.6358 	EXP 	instruções1: autoDraw = True
+7.6358 	EXP 	seta_avançar: autoDraw = True
+7.6358 	EXP 	text_avançar_2: autoDraw = True
+33.3473 	DATA 	Mouse: Left button down, pos=(953,80)
+33.3970 	EXP 	fundobranco: autoDraw = False
+33.3970 	EXP 	balão: autoDraw = False
+33.3970 	EXP 	euro: autoDraw = False
+33.3970 	EXP 	balão_rebentado: autoDraw = False
+33.3970 	EXP 	perder_dinheiro: autoDraw = False
+33.3970 	EXP 	instruções1: autoDraw = False
+33.3970 	EXP 	seta_avançar: autoDraw = False
+33.3970 	EXP 	text_avançar_2: autoDraw = False
+33.3970 	EXP 	encher_balão: image = 'encher_balao.jpeg'
+33.3970 	EXP 	fundobranco1: autoDraw = True
+33.3970 	EXP 	enter_tecla: autoDraw = True
+33.3970 	EXP 	instruções2: autoDraw = True
+33.3970 	EXP 	encher_balão: autoDraw = True
+33.3970 	EXP 	guardar_dinheiro: autoDraw = True
+33.3970 	EXP 	seta_avançar_2: autoDraw = True
+33.3970 	EXP 	text_avançar: autoDraw = True
+33.4680 	DATA 	Mouse:  Left button up, pos=(953,80)
+65.0231 	DATA 	Keypress: space
+65.4378 	DATA 	Keypress: space
+65.8057 	DATA 	Keypress: space
+66.1322 	DATA 	Keypress: space
+66.4450 	DATA 	Keypress: space
+66.8007 	DATA 	Keypress: space
+67.1855 	DATA 	Keypress: space
+67.4362 	DATA 	Keypress: space
+67.8007 	DATA 	Keypress: space
+68.2545 	DATA 	Keypress: space
+68.5398 	DATA 	Keypress: space
+68.7609 	DATA 	Keypress: space
+69.0265 	DATA 	Keypress: space
+74.4657 	DATA 	Keypress: return
+75.1815 	DATA 	Keypress: return
+75.7196 	DATA 	Keypress: return
+76.6164 	DATA 	Keypress: return
+78.6792 	DATA 	Mouse: Left button down, pos=(982,72)
+78.7047 	EXP 	Imported trialTypes_B1.xlsx as conditions, 128 conditions, 2 params
+78.7081 	EXP 	Created sequence: random, trialTypes=128, nReps=1, seed=None
+78.7085 	EXP 	New trial (rep=0, index=0): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 117}
+78.8267 	DATA 	Mouse:  Left button up, pos=(982,72)
+78.8585 	EXP 	fundobranco1: autoDraw = False
+78.8585 	EXP 	enter_tecla: autoDraw = False
+78.8585 	EXP 	instruções2: autoDraw = False
+78.8585 	EXP 	encher_balão: autoDraw = False
+78.8585 	EXP 	guardar_dinheiro: autoDraw = False
+78.8585 	EXP 	seta_avançar_2: autoDraw = False
+78.8585 	EXP 	text_avançar: autoDraw = False
+78.8585 	EXP 	fundobranco2: image = 'branco.jpeg'
+78.8585 	EXP 	balloonBody: image = 'redBalloon.png'
+78.8585 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+78.8585 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+78.8585 	EXP 	molduraBVM: image = 'molduraBVM.png'
+78.8585 	EXP 	molduraBM: image = 'Bau.png'
+78.8585 	EXP 	fundobranco2: autoDraw = True
+78.8585 	EXP 	balloonBody: autoDraw = True
+78.8585 	EXP 	molduraRM1: autoDraw = True
+78.8585 	EXP 	molduraRM2: autoDraw = True
+78.8585 	EXP 	molduraBVM: autoDraw = True
+78.8585 	EXP 	molduraBM: autoDraw = True
+78.8585 	EXP 	reminderMsg1: autoDraw = True
+78.8585 	EXP 	reminderMsg2: autoDraw = True
+78.8585 	EXP 	balloonValMsg: autoDraw = True
+78.8585 	EXP 	bankedMsg: autoDraw = True
+83.7403 	DATA 	Keypress: space
+84.3258 	DATA 	Keypress: space
+84.8361 	DATA 	Keypress: space
+85.4675 	DATA 	Keypress: space
+86.0937 	DATA 	Keypress: space
+86.7419 	DATA 	Keypress: space
+87.4012 	DATA 	Keypress: space
+87.9962 	DATA 	Keypress: space
+88.6587 	DATA 	Keypress: space
+89.2391 	DATA 	Keypress: space
+89.8624 	DATA 	Keypress: space
+90.4939 	DATA 	Keypress: space
+91.0364 	DATA 	Keypress: space
+91.6168 	DATA 	Keypress: space
+94.4511 	DATA 	Keypress: space
+98.2279 	DATA 	Keypress: return
+98.2636 	EXP 	Sound  started
+98.3118 	EXP 	fundobranco2: autoDraw = False
+98.3118 	EXP 	balloonBody: autoDraw = False
+98.3118 	EXP 	molduraRM1: autoDraw = False
+98.3118 	EXP 	molduraRM2: autoDraw = False
+98.3118 	EXP 	molduraBVM: autoDraw = False
+98.3118 	EXP 	molduraBM: autoDraw = False
+98.3118 	EXP 	reminderMsg1: autoDraw = False
+98.3118 	EXP 	reminderMsg2: autoDraw = False
+98.3118 	EXP 	balloonValMsg: autoDraw = False
+98.3118 	EXP 	bankedMsg: autoDraw = False
+98.3118 	EXP 	fundobranco3: image = 'branco.jpeg'
+98.3118 	EXP 	feedbackMsg22: height = 0.09
+98.3118 	EXP 	feedbackMsg22: height = 0.09
+98.3118 	EXP 	feedbackMsg22: height = 0.09
+98.3118 	EXP 	feedbackMsg22: text = 'Guardou +8.0€'
+98.3118 	EXP 	fundobranco3: autoDraw = True
+98.3118 	EXP 	feedbackMsg22: autoDraw = True
+100.2540 	EXP 	New trial (rep=0, index=1): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 107}
+100.3688 	EXP 	fundobranco3: autoDraw = False
+100.3688 	EXP 	feedbackMsg22: autoDraw = False
+100.3688 	EXP 	fundobranco2: image = 'branco.jpeg'
+100.3688 	EXP 	balloonBody: image = 'redBalloon.png'
+100.3688 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+100.3688 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+100.3688 	EXP 	molduraBVM: image = 'molduraBVM.png'
+100.3688 	EXP 	molduraBM: image = 'Bau.png'
+100.3688 	EXP 	fundobranco2: autoDraw = True
+100.3688 	EXP 	balloonBody: autoDraw = True
+100.3688 	EXP 	molduraRM1: autoDraw = True
+100.3688 	EXP 	molduraRM2: autoDraw = True
+100.3688 	EXP 	molduraBVM: autoDraw = True
+100.3688 	EXP 	molduraBM: autoDraw = True
+100.3688 	EXP 	reminderMsg1: autoDraw = True
+100.3688 	EXP 	reminderMsg2: autoDraw = True
+100.3688 	EXP 	balloonValMsg: autoDraw = True
+100.3688 	EXP 	bankedMsg: autoDraw = True
+108.2810 	DATA 	Keypress: space
+108.8558 	DATA 	Keypress: space
+109.4359 	DATA 	Keypress: space
+110.0426 	DATA 	Keypress: space
+110.7094 	DATA 	Keypress: space
+111.3576 	DATA 	Keypress: space
+112.0288 	DATA 	Keypress: space
+112.6691 	DATA 	Keypress: space
+113.3363 	DATA 	Keypress: space
+113.9805 	DATA 	Keypress: space
+116.1412 	DATA 	Keypress: return
+116.1707 	EXP 	Sound  stopped
+116.1708 	EXP 	Sound  started
+116.2065 	EXP 	fundobranco2: autoDraw = False
+116.2065 	EXP 	balloonBody: autoDraw = False
+116.2065 	EXP 	molduraRM1: autoDraw = False
+116.2065 	EXP 	molduraRM2: autoDraw = False
+116.2065 	EXP 	molduraBVM: autoDraw = False
+116.2065 	EXP 	molduraBM: autoDraw = False
+116.2065 	EXP 	reminderMsg1: autoDraw = False
+116.2065 	EXP 	reminderMsg2: autoDraw = False
+116.2065 	EXP 	balloonValMsg: autoDraw = False
+116.2065 	EXP 	bankedMsg: autoDraw = False
+116.2065 	EXP 	fundobranco3: image = 'branco.jpeg'
+116.2065 	EXP 	feedbackMsg22: height = 0.09
+116.2065 	EXP 	feedbackMsg22: height = 0.09
+116.2065 	EXP 	feedbackMsg22: height = 0.09
+116.2065 	EXP 	feedbackMsg22: text = 'Guardou +5.0€'
+116.2065 	EXP 	fundobranco3: autoDraw = True
+116.2065 	EXP 	feedbackMsg22: autoDraw = True
+118.1532 	EXP 	New trial (rep=0, index=2): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 83}
+118.2546 	EXP 	fundobranco3: autoDraw = False
+118.2546 	EXP 	feedbackMsg22: autoDraw = False
+118.2546 	EXP 	fundobranco2: image = 'branco.jpeg'
+118.2546 	EXP 	balloonBody: image = 'redBalloon.png'
+118.2546 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+118.2546 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+118.2546 	EXP 	molduraBVM: image = 'molduraBVM.png'
+118.2546 	EXP 	molduraBM: image = 'Bau.png'
+118.2546 	EXP 	fundobranco2: autoDraw = True
+118.2546 	EXP 	balloonBody: autoDraw = True
+118.2546 	EXP 	molduraRM1: autoDraw = True
+118.2546 	EXP 	molduraRM2: autoDraw = True
+118.2546 	EXP 	molduraBVM: autoDraw = True
+118.2546 	EXP 	molduraBM: autoDraw = True
+118.2546 	EXP 	reminderMsg1: autoDraw = True
+118.2546 	EXP 	reminderMsg2: autoDraw = True
+118.2546 	EXP 	balloonValMsg: autoDraw = True
+118.2546 	EXP 	bankedMsg: autoDraw = True
+124.8786 	DATA 	Keypress: space
+125.6109 	DATA 	Keypress: space
+126.2442 	DATA 	Keypress: space
+126.7867 	DATA 	Keypress: space
+127.3660 	DATA 	Keypress: space
+127.9051 	DATA 	Keypress: space
+128.4671 	DATA 	Keypress: space
+129.0151 	DATA 	Keypress: space
+129.5771 	DATA 	Keypress: space
+130.1123 	DATA 	Keypress: space
+130.6836 	DATA 	Keypress: space
+131.2363 	DATA 	Keypress: space
+131.7684 	DATA 	Keypress: space
+132.3070 	DATA 	Keypress: space
+132.8193 	DATA 	Keypress: space
+133.3752 	DATA 	Keypress: space
+134.8544 	DATA 	Keypress: return
+134.9126 	EXP 	Sound  stopped
+134.9126 	EXP 	Sound  started
+134.9430 	EXP 	fundobranco2: autoDraw = False
+134.9430 	EXP 	balloonBody: autoDraw = False
+134.9430 	EXP 	molduraRM1: autoDraw = False
+134.9430 	EXP 	molduraRM2: autoDraw = False
+134.9430 	EXP 	molduraBVM: autoDraw = False
+134.9430 	EXP 	molduraBM: autoDraw = False
+134.9430 	EXP 	reminderMsg1: autoDraw = False
+134.9430 	EXP 	reminderMsg2: autoDraw = False
+134.9430 	EXP 	balloonValMsg: autoDraw = False
+134.9430 	EXP 	bankedMsg: autoDraw = False
+134.9430 	EXP 	fundobranco3: image = 'branco.jpeg'
+134.9430 	EXP 	feedbackMsg22: height = 0.09
+134.9430 	EXP 	feedbackMsg22: height = 0.09
+134.9430 	EXP 	feedbackMsg22: height = 0.09
+134.9430 	EXP 	feedbackMsg22: text = 'Guardou +8.0€'
+134.9430 	EXP 	fundobranco3: autoDraw = True
+134.9430 	EXP 	feedbackMsg22: autoDraw = True
+136.8917 	EXP 	New trial (rep=0, index=3): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 69}
+137.0000 	EXP 	fundobranco3: autoDraw = False
+137.0000 	EXP 	feedbackMsg22: autoDraw = False
+137.0000 	EXP 	fundobranco2: image = 'branco.jpeg'
+137.0000 	EXP 	balloonBody: image = 'redBalloon.png'
+137.0000 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+137.0000 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+137.0000 	EXP 	molduraBVM: image = 'molduraBVM.png'
+137.0000 	EXP 	molduraBM: image = 'Bau.png'
+137.0000 	EXP 	fundobranco2: autoDraw = True
+137.0000 	EXP 	balloonBody: autoDraw = True
+137.0000 	EXP 	molduraRM1: autoDraw = True
+137.0000 	EXP 	molduraRM2: autoDraw = True
+137.0000 	EXP 	molduraBVM: autoDraw = True
+137.0000 	EXP 	molduraBM: autoDraw = True
+137.0000 	EXP 	reminderMsg1: autoDraw = True
+137.0000 	EXP 	reminderMsg2: autoDraw = True
+137.0000 	EXP 	balloonValMsg: autoDraw = True
+137.0000 	EXP 	bankedMsg: autoDraw = True
+141.1424 	DATA 	Keypress: space
+141.9047 	DATA 	Keypress: space
+142.5030 	DATA 	Keypress: space
+143.0594 	DATA 	Mouse: wheel shift=(0,0), pos=(985,67)
+143.0993 	DATA 	Keypress: space
+143.1919 	DATA 	Mouse: wheel shift=(0,0), pos=(985,67)
+143.6198 	DATA 	Keypress: space
+144.2022 	DATA 	Keypress: space
+144.7520 	DATA 	Keypress: space
+145.5682 	DATA 	Keypress: space
+146.1477 	DATA 	Keypress: space
+146.7109 	DATA 	Keypress: space
+147.2541 	DATA 	Keypress: space
+147.8291 	DATA 	Keypress: space
+148.4342 	DATA 	Keypress: space
+149.0632 	DATA 	Keypress: space
+149.6378 	DATA 	Keypress: space
+151.3737 	DATA 	Keypress: return
+151.4308 	EXP 	Sound  stopped
+151.4309 	EXP 	Sound  started
+151.4675 	EXP 	fundobranco2: autoDraw = False
+151.4675 	EXP 	balloonBody: autoDraw = False
+151.4675 	EXP 	molduraRM1: autoDraw = False
+151.4675 	EXP 	molduraRM2: autoDraw = False
+151.4675 	EXP 	molduraBVM: autoDraw = False
+151.4675 	EXP 	molduraBM: autoDraw = False
+151.4675 	EXP 	reminderMsg1: autoDraw = False
+151.4675 	EXP 	reminderMsg2: autoDraw = False
+151.4675 	EXP 	balloonValMsg: autoDraw = False
+151.4675 	EXP 	bankedMsg: autoDraw = False
+151.4675 	EXP 	fundobranco3: image = 'branco.jpeg'
+151.4675 	EXP 	feedbackMsg22: height = 0.09
+151.4675 	EXP 	feedbackMsg22: height = 0.09
+151.4675 	EXP 	feedbackMsg22: height = 0.09
+151.4675 	EXP 	feedbackMsg22: text = 'Guardou +7.5€'
+151.4675 	EXP 	fundobranco3: autoDraw = True
+151.4675 	EXP 	feedbackMsg22: autoDraw = True
+153.4043 	EXP 	New trial (rep=0, index=4): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 86}
+153.5477 	EXP 	fundobranco3: autoDraw = False
+153.5477 	EXP 	feedbackMsg22: autoDraw = False
+153.5477 	EXP 	fundobranco2: image = 'branco.jpeg'
+153.5477 	EXP 	balloonBody: image = 'redBalloon.png'
+153.5477 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+153.5477 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+153.5477 	EXP 	molduraBVM: image = 'molduraBVM.png'
+153.5477 	EXP 	molduraBM: image = 'Bau.png'
+153.5477 	EXP 	fundobranco2: autoDraw = True
+153.5477 	EXP 	balloonBody: autoDraw = True
+153.5477 	EXP 	molduraRM1: autoDraw = True
+153.5477 	EXP 	molduraRM2: autoDraw = True
+153.5477 	EXP 	molduraBVM: autoDraw = True
+153.5477 	EXP 	molduraBM: autoDraw = True
+153.5477 	EXP 	reminderMsg1: autoDraw = True
+153.5477 	EXP 	reminderMsg2: autoDraw = True
+153.5477 	EXP 	balloonValMsg: autoDraw = True
+153.5477 	EXP 	bankedMsg: autoDraw = True
+158.2964 	DATA 	Keypress: space
+159.0679 	DATA 	Keypress: space
+159.7585 	DATA 	Keypress: space
+160.3823 	DATA 	Keypress: space
+160.9824 	DATA 	Keypress: space
+161.5986 	DATA 	Keypress: space
+162.1436 	DATA 	Keypress: space
+162.7764 	DATA 	Keypress: space
+163.2267 	DATA 	Keypress: space
+163.4407 	DATA 	Keypress: space
+164.0283 	DATA 	Keypress: space
+164.6347 	DATA 	Keypress: space
+165.1768 	DATA 	Keypress: space
+165.7076 	DATA 	Keypress: space
+167.1773 	DATA 	Keypress: return
+167.2360 	EXP 	Sound  stopped
+167.2360 	EXP 	Sound  started
+167.2700 	EXP 	fundobranco2: autoDraw = False
+167.2700 	EXP 	balloonBody: autoDraw = False
+167.2700 	EXP 	molduraRM1: autoDraw = False
+167.2700 	EXP 	molduraRM2: autoDraw = False
+167.2700 	EXP 	molduraBVM: autoDraw = False
+167.2700 	EXP 	molduraBM: autoDraw = False
+167.2700 	EXP 	reminderMsg1: autoDraw = False
+167.2700 	EXP 	reminderMsg2: autoDraw = False
+167.2700 	EXP 	balloonValMsg: autoDraw = False
+167.2700 	EXP 	bankedMsg: autoDraw = False
+167.2700 	EXP 	fundobranco3: image = 'branco.jpeg'
+167.2700 	EXP 	feedbackMsg22: height = 0.09
+167.2700 	EXP 	feedbackMsg22: height = 0.09
+167.2700 	EXP 	feedbackMsg22: height = 0.09
+167.2700 	EXP 	feedbackMsg22: text = 'Guardou +7.0€'
+167.2700 	EXP 	fundobranco3: autoDraw = True
+167.2700 	EXP 	feedbackMsg22: autoDraw = True
+169.2153 	EXP 	New trial (rep=0, index=5): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 110}
+169.3287 	EXP 	fundobranco3: autoDraw = False
+169.3287 	EXP 	feedbackMsg22: autoDraw = False
+169.3287 	EXP 	fundobranco2: image = 'branco.jpeg'
+169.3287 	EXP 	balloonBody: image = 'redBalloon.png'
+169.3287 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+169.3287 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+169.3287 	EXP 	molduraBVM: image = 'molduraBVM.png'
+169.3287 	EXP 	molduraBM: image = 'Bau.png'
+169.3287 	EXP 	fundobranco2: autoDraw = True
+169.3287 	EXP 	balloonBody: autoDraw = True
+169.3287 	EXP 	molduraRM1: autoDraw = True
+169.3287 	EXP 	molduraRM2: autoDraw = True
+169.3287 	EXP 	molduraBVM: autoDraw = True
+169.3287 	EXP 	molduraBM: autoDraw = True
+169.3287 	EXP 	reminderMsg1: autoDraw = True
+169.3287 	EXP 	reminderMsg2: autoDraw = True
+169.3287 	EXP 	balloonValMsg: autoDraw = True
+169.3287 	EXP 	bankedMsg: autoDraw = True
+172.2046 	DATA 	Keypress: space
+172.8565 	DATA 	Keypress: space
+173.4361 	DATA 	Keypress: space
+174.0389 	DATA 	Keypress: space
+174.6690 	DATA 	Keypress: space
+175.2500 	DATA 	Keypress: space
+175.8606 	DATA 	Keypress: space
+176.4912 	DATA 	Keypress: space
+177.0086 	DATA 	Keypress: space
+177.5989 	DATA 	Keypress: space
+178.2596 	DATA 	Keypress: space
+178.7793 	DATA 	Keypress: space
+180.3330 	DATA 	Keypress: return
+180.3734 	EXP 	Sound  stopped
+180.3734 	EXP 	Sound  started
+180.4155 	EXP 	fundobranco2: autoDraw = False
+180.4155 	EXP 	balloonBody: autoDraw = False
+180.4155 	EXP 	molduraRM1: autoDraw = False
+180.4155 	EXP 	molduraRM2: autoDraw = False
+180.4155 	EXP 	molduraBVM: autoDraw = False
+180.4155 	EXP 	molduraBM: autoDraw = False
+180.4155 	EXP 	reminderMsg1: autoDraw = False
+180.4155 	EXP 	reminderMsg2: autoDraw = False
+180.4155 	EXP 	balloonValMsg: autoDraw = False
+180.4155 	EXP 	bankedMsg: autoDraw = False
+180.4155 	EXP 	fundobranco3: image = 'branco.jpeg'
+180.4155 	EXP 	feedbackMsg22: height = 0.09
+180.4155 	EXP 	feedbackMsg22: height = 0.09
+180.4155 	EXP 	feedbackMsg22: height = 0.09
+180.4155 	EXP 	feedbackMsg22: text = 'Guardou +6.0€'
+180.4155 	EXP 	fundobranco3: autoDraw = True
+180.4155 	EXP 	feedbackMsg22: autoDraw = True
+182.3596 	EXP 	New trial (rep=0, index=6): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 77}
+182.4775 	EXP 	fundobranco3: autoDraw = False
+182.4775 	EXP 	feedbackMsg22: autoDraw = False
+182.4775 	EXP 	fundobranco2: image = 'branco.jpeg'
+182.4775 	EXP 	balloonBody: image = 'redBalloon.png'
+182.4775 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+182.4775 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+182.4775 	EXP 	molduraBVM: image = 'molduraBVM.png'
+182.4775 	EXP 	molduraBM: image = 'Bau.png'
+182.4775 	EXP 	fundobranco2: autoDraw = True
+182.4775 	EXP 	balloonBody: autoDraw = True
+182.4775 	EXP 	molduraRM1: autoDraw = True
+182.4775 	EXP 	molduraRM2: autoDraw = True
+182.4775 	EXP 	molduraBVM: autoDraw = True
+182.4775 	EXP 	molduraBM: autoDraw = True
+182.4775 	EXP 	reminderMsg1: autoDraw = True
+182.4775 	EXP 	reminderMsg2: autoDraw = True
+182.4775 	EXP 	balloonValMsg: autoDraw = True
+182.4775 	EXP 	bankedMsg: autoDraw = True
+185.6883 	DATA 	Keypress: space
+186.3566 	DATA 	Keypress: space
+186.9009 	DATA 	Keypress: space
+187.5056 	DATA 	Keypress: space
+188.0747 	DATA 	Keypress: space
+188.6647 	DATA 	Keypress: space
+189.2271 	DATA 	Keypress: space
+189.7599 	DATA 	Keypress: space
+190.3495 	DATA 	Keypress: space
+190.9065 	DATA 	Keypress: space
+191.4516 	DATA 	Keypress: space
+192.0497 	DATA 	Keypress: space
+192.5887 	DATA 	Keypress: space
+193.9116 	DATA 	Keypress: return
+193.9445 	EXP 	Sound  stopped
+193.9446 	EXP 	Sound  started
+193.9738 	EXP 	fundobranco2: autoDraw = False
+193.9738 	EXP 	balloonBody: autoDraw = False
+193.9738 	EXP 	molduraRM1: autoDraw = False
+193.9738 	EXP 	molduraRM2: autoDraw = False
+193.9738 	EXP 	molduraBVM: autoDraw = False
+193.9738 	EXP 	molduraBM: autoDraw = False
+193.9738 	EXP 	reminderMsg1: autoDraw = False
+193.9738 	EXP 	reminderMsg2: autoDraw = False
+193.9738 	EXP 	balloonValMsg: autoDraw = False
+193.9738 	EXP 	bankedMsg: autoDraw = False
+193.9738 	EXP 	fundobranco3: image = 'branco.jpeg'
+193.9738 	EXP 	feedbackMsg22: height = 0.09
+193.9738 	EXP 	feedbackMsg22: height = 0.09
+193.9738 	EXP 	feedbackMsg22: height = 0.09
+193.9738 	EXP 	feedbackMsg22: text = 'Guardou +6.5€'
+193.9738 	EXP 	fundobranco3: autoDraw = True
+193.9738 	EXP 	feedbackMsg22: autoDraw = True
+195.9177 	EXP 	New trial (rep=0, index=7): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 35}
+196.0596 	EXP 	fundobranco3: autoDraw = False
+196.0596 	EXP 	feedbackMsg22: autoDraw = False
+196.0596 	EXP 	fundobranco2: image = 'branco.jpeg'
+196.0596 	EXP 	balloonBody: image = 'redBalloon.png'
+196.0596 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+196.0596 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+196.0596 	EXP 	molduraBVM: image = 'molduraBVM.png'
+196.0596 	EXP 	molduraBM: image = 'Bau.png'
+196.0596 	EXP 	fundobranco2: autoDraw = True
+196.0596 	EXP 	balloonBody: autoDraw = True
+196.0596 	EXP 	molduraRM1: autoDraw = True
+196.0596 	EXP 	molduraRM2: autoDraw = True
+196.0596 	EXP 	molduraBVM: autoDraw = True
+196.0596 	EXP 	molduraBM: autoDraw = True
+196.0596 	EXP 	reminderMsg1: autoDraw = True
+196.0596 	EXP 	reminderMsg2: autoDraw = True
+196.0596 	EXP 	balloonValMsg: autoDraw = True
+196.0596 	EXP 	bankedMsg: autoDraw = True
+199.4823 	DATA 	Keypress: space
+200.1290 	DATA 	Keypress: space
+200.7050 	DATA 	Keypress: space
+201.3002 	DATA 	Keypress: space
+201.8859 	DATA 	Keypress: space
+202.4392 	DATA 	Keypress: space
+203.0042 	DATA 	Keypress: space
+203.5690 	DATA 	Keypress: space
+204.1421 	DATA 	Keypress: space
+204.6906 	DATA 	Keypress: space
+205.2395 	DATA 	Keypress: space
+206.7130 	DATA 	Keypress: return
+206.7443 	EXP 	Sound  stopped
+206.7443 	EXP 	Sound  started
+206.7786 	EXP 	fundobranco2: autoDraw = False
+206.7786 	EXP 	balloonBody: autoDraw = False
+206.7786 	EXP 	molduraRM1: autoDraw = False
+206.7786 	EXP 	molduraRM2: autoDraw = False
+206.7786 	EXP 	molduraBVM: autoDraw = False
+206.7786 	EXP 	molduraBM: autoDraw = False
+206.7786 	EXP 	reminderMsg1: autoDraw = False
+206.7786 	EXP 	reminderMsg2: autoDraw = False
+206.7786 	EXP 	balloonValMsg: autoDraw = False
+206.7786 	EXP 	bankedMsg: autoDraw = False
+206.7786 	EXP 	fundobranco3: image = 'branco.jpeg'
+206.7786 	EXP 	feedbackMsg22: height = 0.09
+206.7786 	EXP 	feedbackMsg22: height = 0.09
+206.7786 	EXP 	feedbackMsg22: height = 0.09
+206.7786 	EXP 	feedbackMsg22: text = 'Guardou +5.5€'
+206.7786 	EXP 	fundobranco3: autoDraw = True
+206.7786 	EXP 	feedbackMsg22: autoDraw = True
+208.7210 	EXP 	New trial (rep=0, index=8): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 43}
+208.8684 	EXP 	fundobranco3: autoDraw = False
+208.8684 	EXP 	feedbackMsg22: autoDraw = False
+208.8684 	EXP 	fundobranco2: image = 'branco.jpeg'
+208.8684 	EXP 	balloonBody: image = 'redBalloon.png'
+208.8684 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+208.8684 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+208.8684 	EXP 	molduraBVM: image = 'molduraBVM.png'
+208.8684 	EXP 	molduraBM: image = 'Bau.png'
+208.8684 	EXP 	fundobranco2: autoDraw = True
+208.8684 	EXP 	balloonBody: autoDraw = True
+208.8684 	EXP 	molduraRM1: autoDraw = True
+208.8684 	EXP 	molduraRM2: autoDraw = True
+208.8684 	EXP 	molduraBVM: autoDraw = True
+208.8684 	EXP 	molduraBM: autoDraw = True
+208.8684 	EXP 	reminderMsg1: autoDraw = True
+208.8684 	EXP 	reminderMsg2: autoDraw = True
+208.8684 	EXP 	balloonValMsg: autoDraw = True
+208.8684 	EXP 	bankedMsg: autoDraw = True
+214.5147 	DATA 	Keypress: space
+215.1397 	DATA 	Keypress: space
+215.7377 	DATA 	Keypress: space
+216.3269 	DATA 	Keypress: space
+216.8712 	DATA 	Keypress: space
+217.5021 	DATA 	Keypress: space
+218.0499 	DATA 	Keypress: space
+218.6168 	DATA 	Keypress: space
+219.1785 	DATA 	Keypress: space
+219.7689 	DATA 	Keypress: space
+220.3607 	DATA 	Keypress: space
+220.9173 	DATA 	Keypress: space
+221.4515 	DATA 	Keypress: space
+222.8409 	DATA 	Keypress: return
+222.8977 	EXP 	Sound  stopped
+222.8978 	EXP 	Sound  started
+222.9301 	EXP 	fundobranco2: autoDraw = False
+222.9301 	EXP 	balloonBody: autoDraw = False
+222.9301 	EXP 	molduraRM1: autoDraw = False
+222.9301 	EXP 	molduraRM2: autoDraw = False
+222.9301 	EXP 	molduraBVM: autoDraw = False
+222.9301 	EXP 	molduraBM: autoDraw = False
+222.9301 	EXP 	reminderMsg1: autoDraw = False
+222.9301 	EXP 	reminderMsg2: autoDraw = False
+222.9301 	EXP 	balloonValMsg: autoDraw = False
+222.9301 	EXP 	bankedMsg: autoDraw = False
+222.9301 	EXP 	fundobranco3: image = 'branco.jpeg'
+222.9301 	EXP 	feedbackMsg22: height = 0.09
+222.9301 	EXP 	feedbackMsg22: height = 0.09
+222.9301 	EXP 	feedbackMsg22: height = 0.09
+222.9301 	EXP 	feedbackMsg22: text = 'Guardou +6.5€'
+222.9301 	EXP 	fundobranco3: autoDraw = True
+222.9301 	EXP 	feedbackMsg22: autoDraw = True
+224.8951 	EXP 	New trial (rep=0, index=9): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 37}
+225.0150 	EXP 	fundobranco3: autoDraw = False
+225.0150 	EXP 	feedbackMsg22: autoDraw = False
+225.0150 	EXP 	fundobranco2: image = 'branco.jpeg'
+225.0150 	EXP 	balloonBody: image = 'redBalloon.png'
+225.0150 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+225.0150 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+225.0150 	EXP 	molduraBVM: image = 'molduraBVM.png'
+225.0150 	EXP 	molduraBM: image = 'Bau.png'
+225.0150 	EXP 	fundobranco2: autoDraw = True
+225.0150 	EXP 	balloonBody: autoDraw = True
+225.0150 	EXP 	molduraRM1: autoDraw = True
+225.0150 	EXP 	molduraRM2: autoDraw = True
+225.0150 	EXP 	molduraBVM: autoDraw = True
+225.0150 	EXP 	molduraBM: autoDraw = True
+225.0150 	EXP 	reminderMsg1: autoDraw = True
+225.0150 	EXP 	reminderMsg2: autoDraw = True
+225.0150 	EXP 	balloonValMsg: autoDraw = True
+225.0150 	EXP 	bankedMsg: autoDraw = True
+230.4207 	DATA 	Keypress: space
+231.0011 	DATA 	Keypress: space
+231.5990 	DATA 	Keypress: space
+232.1891 	DATA 	Keypress: space
+232.7380 	DATA 	Keypress: space
+233.2571 	DATA 	Keypress: space
+233.8210 	DATA 	Keypress: space
+234.3870 	DATA 	Keypress: space
+234.9408 	DATA 	Keypress: space
+235.5252 	DATA 	Keypress: space
+236.1124 	DATA 	Keypress: space
+236.6801 	DATA 	Keypress: space
+237.1816 	DATA 	Keypress: space
+238.6158 	DATA 	Keypress: return
+238.6683 	EXP 	Sound  stopped
+238.6684 	EXP 	Sound  started
+238.7028 	EXP 	fundobranco2: autoDraw = False
+238.7028 	EXP 	balloonBody: autoDraw = False
+238.7028 	EXP 	molduraRM1: autoDraw = False
+238.7028 	EXP 	molduraRM2: autoDraw = False
+238.7028 	EXP 	molduraBVM: autoDraw = False
+238.7028 	EXP 	molduraBM: autoDraw = False
+238.7028 	EXP 	reminderMsg1: autoDraw = False
+238.7028 	EXP 	reminderMsg2: autoDraw = False
+238.7028 	EXP 	balloonValMsg: autoDraw = False
+238.7028 	EXP 	bankedMsg: autoDraw = False
+238.7028 	EXP 	fundobranco3: image = 'branco.jpeg'
+238.7028 	EXP 	feedbackMsg22: text = 'Guardou +6.5€'
+238.7028 	EXP 	fundobranco3: autoDraw = True
+238.7028 	EXP 	feedbackMsg22: autoDraw = True
+240.6264 	EXP 	New trial (rep=0, index=10): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 13}
+240.7276 	EXP 	fundobranco3: autoDraw = False
+240.7276 	EXP 	feedbackMsg22: autoDraw = False
+240.7276 	EXP 	fundobranco2: image = 'branco.jpeg'
+240.7276 	EXP 	balloonBody: image = 'redBalloon.png'
+240.7276 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+240.7276 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+240.7276 	EXP 	molduraBVM: image = 'molduraBVM.png'
+240.7276 	EXP 	molduraBM: image = 'Bau.png'
+240.7276 	EXP 	fundobranco2: autoDraw = True
+240.7276 	EXP 	balloonBody: autoDraw = True
+240.7276 	EXP 	molduraRM1: autoDraw = True
+240.7276 	EXP 	molduraRM2: autoDraw = True
+240.7276 	EXP 	molduraBVM: autoDraw = True
+240.7276 	EXP 	molduraBM: autoDraw = True
+240.7276 	EXP 	reminderMsg1: autoDraw = True
+240.7276 	EXP 	reminderMsg2: autoDraw = True
+240.7276 	EXP 	balloonValMsg: autoDraw = True
+240.7276 	EXP 	bankedMsg: autoDraw = True
+244.6947 	DATA 	Keypress: space
+245.3624 	DATA 	Keypress: space
+245.9675 	DATA 	Keypress: space
+246.5096 	DATA 	Keypress: space
+247.0487 	DATA 	Keypress: space
+247.5832 	DATA 	Keypress: space
+248.1249 	DATA 	Keypress: space
+248.6194 	DATA 	Keypress: space
+249.1852 	DATA 	Keypress: space
+249.8010 	DATA 	Keypress: space
+250.3673 	DATA 	Keypress: space
+250.9942 	DATA 	Keypress: space
+251.3578 	DATA 	Keypress: space
+251.9401 	DATA 	Keypress: space
+251.9731 	EXP 	Sound  started
+252.0171 	EXP 	fundobranco2: autoDraw = False
+252.0171 	EXP 	balloonBody: autoDraw = False
+252.0171 	EXP 	molduraRM1: autoDraw = False
+252.0171 	EXP 	molduraRM2: autoDraw = False
+252.0171 	EXP 	molduraBVM: autoDraw = False
+252.0171 	EXP 	molduraBM: autoDraw = False
+252.0171 	EXP 	reminderMsg1: autoDraw = False
+252.0171 	EXP 	reminderMsg2: autoDraw = False
+252.0171 	EXP 	balloonValMsg: autoDraw = False
+252.0171 	EXP 	bankedMsg: autoDraw = False
+252.0171 	EXP 	fundobranco3: image = 'branco.jpeg'
+252.0171 	EXP 	feedbackMsg22: height = 0.09
+252.0171 	EXP 	feedbackMsg22: height = 0.09
+252.0171 	EXP 	feedbackMsg22: height = 0.09
+252.0171 	EXP 	feedbackMsg22: text = 'Ups! Perdeu o valor deste balão!'
+252.0171 	EXP 	fundobranco3: autoDraw = True
+252.0171 	EXP 	feedbackMsg22: autoDraw = True
+253.9455 	EXP 	New trial (rep=0, index=11): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 87}
+254.0465 	EXP 	fundobranco3: autoDraw = False
+254.0465 	EXP 	feedbackMsg22: autoDraw = False
+254.0465 	EXP 	fundobranco2: image = 'branco.jpeg'
+254.0465 	EXP 	balloonBody: image = 'redBalloon.png'
+254.0465 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+254.0465 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+254.0465 	EXP 	molduraBVM: image = 'molduraBVM.png'
+254.0465 	EXP 	molduraBM: image = 'Bau.png'
+254.0465 	EXP 	fundobranco2: autoDraw = True
+254.0465 	EXP 	balloonBody: autoDraw = True
+254.0465 	EXP 	molduraRM1: autoDraw = True
+254.0465 	EXP 	molduraRM2: autoDraw = True
+254.0465 	EXP 	molduraBVM: autoDraw = True
+254.0465 	EXP 	molduraBM: autoDraw = True
+254.0465 	EXP 	reminderMsg1: autoDraw = True
+254.0465 	EXP 	reminderMsg2: autoDraw = True
+254.0465 	EXP 	balloonValMsg: autoDraw = True
+254.0465 	EXP 	bankedMsg: autoDraw = True
+262.0918 	DATA 	Keypress: space
+262.7505 	DATA 	Keypress: space
+263.2856 	DATA 	Keypress: space
+263.8244 	DATA 	Keypress: space
+264.3952 	DATA 	Keypress: space
+264.9300 	DATA 	Keypress: space
+265.4731 	DATA 	Keypress: space
+266.0656 	DATA 	Keypress: space
+266.5895 	DATA 	Keypress: space
+267.0943 	DATA 	Keypress: space
+268.4036 	DATA 	Keypress: return
+268.4693 	EXP 	Sound  stopped
+268.4694 	EXP 	Sound  started
+268.5019 	EXP 	fundobranco2: autoDraw = False
+268.5019 	EXP 	balloonBody: autoDraw = False
+268.5019 	EXP 	molduraRM1: autoDraw = False
+268.5019 	EXP 	molduraRM2: autoDraw = False
+268.5019 	EXP 	molduraBVM: autoDraw = False
+268.5019 	EXP 	molduraBM: autoDraw = False
+268.5019 	EXP 	reminderMsg1: autoDraw = False
+268.5019 	EXP 	reminderMsg2: autoDraw = False
+268.5019 	EXP 	balloonValMsg: autoDraw = False
+268.5019 	EXP 	bankedMsg: autoDraw = False
+268.5019 	EXP 	fundobranco3: image = 'branco.jpeg'
+268.5019 	EXP 	feedbackMsg22: height = 0.09
+268.5019 	EXP 	feedbackMsg22: height = 0.09
+268.5019 	EXP 	feedbackMsg22: height = 0.09
+268.5019 	EXP 	feedbackMsg22: text = 'Guardou +5.0€'
+268.5019 	EXP 	fundobranco3: autoDraw = True
+268.5019 	EXP 	feedbackMsg22: autoDraw = True
+270.4528 	EXP 	New trial (rep=0, index=12): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 47}
+270.5943 	EXP 	fundobranco3: autoDraw = False
+270.5943 	EXP 	feedbackMsg22: autoDraw = False
+270.5943 	EXP 	fundobranco2: image = 'branco.jpeg'
+270.5943 	EXP 	balloonBody: image = 'redBalloon.png'
+270.5943 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+270.5943 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+270.5943 	EXP 	molduraBVM: image = 'molduraBVM.png'
+270.5943 	EXP 	molduraBM: image = 'Bau.png'
+270.5943 	EXP 	fundobranco2: autoDraw = True
+270.5943 	EXP 	balloonBody: autoDraw = True
+270.5943 	EXP 	molduraRM1: autoDraw = True
+270.5943 	EXP 	molduraRM2: autoDraw = True
+270.5943 	EXP 	molduraBVM: autoDraw = True
+270.5943 	EXP 	molduraBM: autoDraw = True
+270.5943 	EXP 	reminderMsg1: autoDraw = True
+270.5943 	EXP 	reminderMsg2: autoDraw = True
+270.5943 	EXP 	balloonValMsg: autoDraw = True
+270.5943 	EXP 	bankedMsg: autoDraw = True
+275.3284 	DATA 	Keypress: space
+275.9171 	DATA 	Keypress: space
+276.4792 	DATA 	Keypress: space
+277.0454 	DATA 	Keypress: space
+277.6355 	DATA 	Keypress: space
+278.1984 	DATA 	Keypress: space
+278.7991 	DATA 	Keypress: space
+279.3837 	DATA 	Keypress: space
+279.9576 	DATA 	Keypress: space
+280.4656 	DATA 	Keypress: space
+282.0582 	DATA 	Keypress: return
+282.0983 	EXP 	Sound  stopped
+282.0983 	EXP 	Sound  started
+282.1314 	EXP 	fundobranco2: autoDraw = False
+282.1314 	EXP 	balloonBody: autoDraw = False
+282.1314 	EXP 	molduraRM1: autoDraw = False
+282.1314 	EXP 	molduraRM2: autoDraw = False
+282.1314 	EXP 	molduraBVM: autoDraw = False
+282.1314 	EXP 	molduraBM: autoDraw = False
+282.1314 	EXP 	reminderMsg1: autoDraw = False
+282.1314 	EXP 	reminderMsg2: autoDraw = False
+282.1314 	EXP 	balloonValMsg: autoDraw = False
+282.1314 	EXP 	bankedMsg: autoDraw = False
+282.1314 	EXP 	fundobranco3: image = 'branco.jpeg'
+282.1314 	EXP 	feedbackMsg22: text = 'Guardou +5.0€'
+282.1314 	EXP 	fundobranco3: autoDraw = True
+282.1314 	EXP 	feedbackMsg22: autoDraw = True
+284.0660 	EXP 	New trial (rep=0, index=13): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 34}
+284.1675 	EXP 	fundobranco3: autoDraw = False
+284.1675 	EXP 	feedbackMsg22: autoDraw = False
+284.1675 	EXP 	fundobranco2: image = 'branco.jpeg'
+284.1675 	EXP 	balloonBody: image = 'redBalloon.png'
+284.1675 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+284.1675 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+284.1675 	EXP 	molduraBVM: image = 'molduraBVM.png'
+284.1675 	EXP 	molduraBM: image = 'Bau.png'
+284.1675 	EXP 	fundobranco2: autoDraw = True
+284.1675 	EXP 	balloonBody: autoDraw = True
+284.1675 	EXP 	molduraRM1: autoDraw = True
+284.1675 	EXP 	molduraRM2: autoDraw = True
+284.1675 	EXP 	molduraBVM: autoDraw = True
+284.1675 	EXP 	molduraBM: autoDraw = True
+284.1675 	EXP 	reminderMsg1: autoDraw = True
+284.1675 	EXP 	reminderMsg2: autoDraw = True
+284.1675 	EXP 	balloonValMsg: autoDraw = True
+284.1675 	EXP 	bankedMsg: autoDraw = True
+288.5715 	DATA 	Keypress: space
+289.1751 	DATA 	Keypress: space
+289.7050 	DATA 	Keypress: space
+290.2531 	DATA 	Keypress: space
+290.8057 	DATA 	Keypress: space
+291.3910 	DATA 	Keypress: space
+291.9709 	DATA 	Keypress: space
+292.4868 	DATA 	Keypress: space
+293.0504 	DATA 	Keypress: space
+293.6031 	DATA 	Keypress: space
+294.1631 	DATA 	Keypress: space
+295.4220 	DATA 	Keypress: return
+295.4857 	EXP 	Sound  stopped
+295.4858 	EXP 	Sound  started
+295.5202 	EXP 	fundobranco2: autoDraw = False
+295.5202 	EXP 	balloonBody: autoDraw = False
+295.5202 	EXP 	molduraRM1: autoDraw = False
+295.5202 	EXP 	molduraRM2: autoDraw = False
+295.5202 	EXP 	molduraBVM: autoDraw = False
+295.5202 	EXP 	molduraBM: autoDraw = False
+295.5202 	EXP 	reminderMsg1: autoDraw = False
+295.5202 	EXP 	reminderMsg2: autoDraw = False
+295.5202 	EXP 	balloonValMsg: autoDraw = False
+295.5202 	EXP 	bankedMsg: autoDraw = False
+295.5202 	EXP 	fundobranco3: image = 'branco.jpeg'
+295.5202 	EXP 	feedbackMsg22: height = 0.09
+295.5202 	EXP 	feedbackMsg22: height = 0.09
+295.5202 	EXP 	feedbackMsg22: height = 0.09
+295.5202 	EXP 	feedbackMsg22: text = 'Guardou +5.5€'
+295.5202 	EXP 	fundobranco3: autoDraw = True
+295.5202 	EXP 	feedbackMsg22: autoDraw = True
+297.4693 	EXP 	New trial (rep=0, index=14): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 116}
+297.5772 	EXP 	fundobranco3: autoDraw = False
+297.5772 	EXP 	feedbackMsg22: autoDraw = False
+297.5772 	EXP 	fundobranco2: image = 'branco.jpeg'
+297.5772 	EXP 	balloonBody: image = 'redBalloon.png'
+297.5772 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+297.5772 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+297.5772 	EXP 	molduraBVM: image = 'molduraBVM.png'
+297.5772 	EXP 	molduraBM: image = 'Bau.png'
+297.5772 	EXP 	fundobranco2: autoDraw = True
+297.5772 	EXP 	balloonBody: autoDraw = True
+297.5772 	EXP 	molduraRM1: autoDraw = True
+297.5772 	EXP 	molduraRM2: autoDraw = True
+297.5772 	EXP 	molduraBVM: autoDraw = True
+297.5772 	EXP 	molduraBM: autoDraw = True
+297.5772 	EXP 	reminderMsg1: autoDraw = True
+297.5772 	EXP 	reminderMsg2: autoDraw = True
+297.5772 	EXP 	balloonValMsg: autoDraw = True
+297.5772 	EXP 	bankedMsg: autoDraw = True
+300.9114 	DATA 	Keypress: space
+301.4663 	DATA 	Keypress: space
+302.0224 	DATA 	Keypress: space
+302.6253 	DATA 	Keypress: space
+303.2289 	DATA 	Keypress: space
+303.8080 	DATA 	Keypress: space
+304.3698 	DATA 	Keypress: space
+304.9796 	DATA 	Keypress: space
+305.4792 	DATA 	Keypress: space
+306.8235 	DATA 	Keypress: return
+306.8551 	EXP 	Sound  stopped
+306.8552 	EXP 	Sound  started
+306.8864 	EXP 	fundobranco2: autoDraw = False
+306.8864 	EXP 	balloonBody: autoDraw = False
+306.8864 	EXP 	molduraRM1: autoDraw = False
+306.8864 	EXP 	molduraRM2: autoDraw = False
+306.8864 	EXP 	molduraBVM: autoDraw = False
+306.8864 	EXP 	molduraBM: autoDraw = False
+306.8864 	EXP 	reminderMsg1: autoDraw = False
+306.8864 	EXP 	reminderMsg2: autoDraw = False
+306.8864 	EXP 	balloonValMsg: autoDraw = False
+306.8864 	EXP 	bankedMsg: autoDraw = False
+306.8864 	EXP 	fundobranco3: image = 'branco.jpeg'
+306.8864 	EXP 	feedbackMsg22: height = 0.09
+306.8864 	EXP 	feedbackMsg22: height = 0.09
+306.8864 	EXP 	feedbackMsg22: height = 0.09
+306.8864 	EXP 	feedbackMsg22: text = 'Guardou +4.5€'
+306.8864 	EXP 	fundobranco3: autoDraw = True
+306.8864 	EXP 	feedbackMsg22: autoDraw = True
+308.8271 	EXP 	New trial (rep=0, index=15): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 9}
+308.9476 	EXP 	fundobranco3: autoDraw = False
+308.9476 	EXP 	feedbackMsg22: autoDraw = False
+308.9476 	EXP 	fundobranco2: image = 'branco.jpeg'
+308.9476 	EXP 	balloonBody: image = 'redBalloon.png'
+308.9476 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+308.9476 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+308.9476 	EXP 	molduraBVM: image = 'molduraBVM.png'
+308.9476 	EXP 	molduraBM: image = 'Bau.png'
+308.9476 	EXP 	fundobranco2: autoDraw = True
+308.9476 	EXP 	balloonBody: autoDraw = True
+308.9476 	EXP 	molduraRM1: autoDraw = True
+308.9476 	EXP 	molduraRM2: autoDraw = True
+308.9476 	EXP 	molduraBVM: autoDraw = True
+308.9476 	EXP 	molduraBM: autoDraw = True
+308.9476 	EXP 	reminderMsg1: autoDraw = True
+308.9476 	EXP 	reminderMsg2: autoDraw = True
+308.9476 	EXP 	balloonValMsg: autoDraw = True
+308.9476 	EXP 	bankedMsg: autoDraw = True
+313.0193 	DATA 	Keypress: space
+313.6278 	DATA 	Keypress: space
+314.2108 	DATA 	Keypress: space
+314.7803 	DATA 	Keypress: space
+315.3210 	DATA 	Keypress: space
+315.8425 	DATA 	Keypress: space
+316.4113 	DATA 	Keypress: space
+316.9716 	DATA 	Keypress: space
+317.5725 	DATA 	Keypress: space
+318.1051 	DATA 	Keypress: space
+318.1736 	EXP 	Sound  stopped
+318.1737 	EXP 	Sound  started
+318.2143 	EXP 	fundobranco2: autoDraw = False
+318.2143 	EXP 	balloonBody: autoDraw = False
+318.2143 	EXP 	molduraRM1: autoDraw = False
+318.2143 	EXP 	molduraRM2: autoDraw = False
+318.2143 	EXP 	molduraBVM: autoDraw = False
+318.2143 	EXP 	molduraBM: autoDraw = False
+318.2143 	EXP 	reminderMsg1: autoDraw = False
+318.2143 	EXP 	reminderMsg2: autoDraw = False
+318.2143 	EXP 	balloonValMsg: autoDraw = False
+318.2143 	EXP 	bankedMsg: autoDraw = False
+318.2143 	EXP 	fundobranco3: image = 'branco.jpeg'
+318.2143 	EXP 	feedbackMsg22: height = 0.09
+318.2143 	EXP 	feedbackMsg22: height = 0.09
+318.2143 	EXP 	feedbackMsg22: height = 0.09
+318.2143 	EXP 	feedbackMsg22: text = 'Ups! Perdeu o valor deste balão!'
+318.2143 	EXP 	fundobranco3: autoDraw = True
+318.2143 	EXP 	feedbackMsg22: autoDraw = True
+320.1555 	EXP 	New trial (rep=0, index=16): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 1}
+320.2536 	EXP 	fundobranco3: autoDraw = False
+320.2536 	EXP 	feedbackMsg22: autoDraw = False
+320.2536 	EXP 	fundobranco2: image = 'branco.jpeg'
+320.2536 	EXP 	balloonBody: image = 'redBalloon.png'
+320.2536 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+320.2536 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+320.2536 	EXP 	molduraBVM: image = 'molduraBVM.png'
+320.2536 	EXP 	molduraBM: image = 'Bau.png'
+320.2536 	EXP 	fundobranco2: autoDraw = True
+320.2536 	EXP 	balloonBody: autoDraw = True
+320.2536 	EXP 	molduraRM1: autoDraw = True
+320.2536 	EXP 	molduraRM2: autoDraw = True
+320.2536 	EXP 	molduraBVM: autoDraw = True
+320.2536 	EXP 	molduraBM: autoDraw = True
+320.2536 	EXP 	reminderMsg1: autoDraw = True
+320.2536 	EXP 	reminderMsg2: autoDraw = True
+320.2536 	EXP 	balloonValMsg: autoDraw = True
+320.2536 	EXP 	bankedMsg: autoDraw = True
+322.9899 	DATA 	Keypress: space
+323.6355 	DATA 	Keypress: space
+323.6670 	EXP 	Sound  stopped
+323.6671 	EXP 	Sound  started
+323.6943 	EXP 	fundobranco2: autoDraw = False
+323.6943 	EXP 	balloonBody: autoDraw = False
+323.6943 	EXP 	molduraRM1: autoDraw = False
+323.6943 	EXP 	molduraRM2: autoDraw = False
+323.6943 	EXP 	molduraBVM: autoDraw = False
+323.6943 	EXP 	molduraBM: autoDraw = False
+323.6943 	EXP 	reminderMsg1: autoDraw = False
+323.6943 	EXP 	reminderMsg2: autoDraw = False
+323.6943 	EXP 	balloonValMsg: autoDraw = False
+323.6943 	EXP 	bankedMsg: autoDraw = False
+323.6943 	EXP 	fundobranco3: image = 'branco.jpeg'
+323.6943 	EXP 	feedbackMsg22: text = 'Ups! Perdeu o valor deste balão!'
+323.6943 	EXP 	fundobranco3: autoDraw = True
+323.6943 	EXP 	feedbackMsg22: autoDraw = True
+325.6480 	EXP 	New trial (rep=0, index=17): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 27}
+325.7490 	EXP 	fundobranco3: autoDraw = False
+325.7490 	EXP 	feedbackMsg22: autoDraw = False
+325.7490 	EXP 	fundobranco2: image = 'branco.jpeg'
+325.7490 	EXP 	balloonBody: image = 'redBalloon.png'
+325.7490 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+325.7490 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+325.7490 	EXP 	molduraBVM: image = 'molduraBVM.png'
+325.7490 	EXP 	molduraBM: image = 'Bau.png'
+325.7490 	EXP 	fundobranco2: autoDraw = True
+325.7490 	EXP 	balloonBody: autoDraw = True
+325.7490 	EXP 	molduraRM1: autoDraw = True
+325.7490 	EXP 	molduraRM2: autoDraw = True
+325.7490 	EXP 	molduraBVM: autoDraw = True
+325.7490 	EXP 	molduraBM: autoDraw = True
+325.7490 	EXP 	reminderMsg1: autoDraw = True
+325.7490 	EXP 	reminderMsg2: autoDraw = True
+325.7490 	EXP 	balloonValMsg: autoDraw = True
+325.7490 	EXP 	bankedMsg: autoDraw = True
+329.3843 	DATA 	Keypress: space
+330.0663 	DATA 	Keypress: space
+330.6460 	DATA 	Keypress: space
+331.2482 	DATA 	Keypress: space
+331.8363 	DATA 	Keypress: space
+332.4413 	DATA 	Keypress: space
+333.7347 	DATA 	Keypress: return
+333.7930 	EXP 	Sound  stopped
+333.7931 	EXP 	Sound  started
+333.8290 	EXP 	fundobranco2: autoDraw = False
+333.8290 	EXP 	balloonBody: autoDraw = False
+333.8290 	EXP 	molduraRM1: autoDraw = False
+333.8290 	EXP 	molduraRM2: autoDraw = False
+333.8290 	EXP 	molduraBVM: autoDraw = False
+333.8290 	EXP 	molduraBM: autoDraw = False
+333.8290 	EXP 	reminderMsg1: autoDraw = False
+333.8290 	EXP 	reminderMsg2: autoDraw = False
+333.8290 	EXP 	balloonValMsg: autoDraw = False
+333.8290 	EXP 	bankedMsg: autoDraw = False
+333.8290 	EXP 	fundobranco3: image = 'branco.jpeg'
+333.8290 	EXP 	feedbackMsg22: height = 0.09
+333.8290 	EXP 	feedbackMsg22: height = 0.09
+333.8290 	EXP 	feedbackMsg22: height = 0.09
+333.8290 	EXP 	feedbackMsg22: text = 'Guardou +3.0€'
+333.8290 	EXP 	fundobranco3: autoDraw = True
+333.8290 	EXP 	feedbackMsg22: autoDraw = True
+335.7825 	EXP 	New trial (rep=0, index=18): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 115}
+335.8958 	EXP 	fundobranco3: autoDraw = False
+335.8958 	EXP 	feedbackMsg22: autoDraw = False
+335.8958 	EXP 	fundobranco2: image = 'branco.jpeg'
+335.8958 	EXP 	balloonBody: image = 'redBalloon.png'
+335.8958 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+335.8958 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+335.8958 	EXP 	molduraBVM: image = 'molduraBVM.png'
+335.8958 	EXP 	molduraBM: image = 'Bau.png'
+335.8958 	EXP 	fundobranco2: autoDraw = True
+335.8958 	EXP 	balloonBody: autoDraw = True
+335.8958 	EXP 	molduraRM1: autoDraw = True
+335.8958 	EXP 	molduraRM2: autoDraw = True
+335.8958 	EXP 	molduraBVM: autoDraw = True
+335.8958 	EXP 	molduraBM: autoDraw = True
+335.8958 	EXP 	reminderMsg1: autoDraw = True
+335.8958 	EXP 	reminderMsg2: autoDraw = True
+335.8958 	EXP 	balloonValMsg: autoDraw = True
+335.8958 	EXP 	bankedMsg: autoDraw = True
+338.8640 	DATA 	Keypress: space
+339.4516 	DATA 	Keypress: space
+340.0072 	DATA 	Keypress: space
+340.5967 	DATA 	Keypress: space
+341.1148 	DATA 	Keypress: space
+341.6672 	DATA 	Keypress: space
+342.2362 	DATA 	Keypress: space
+342.7332 	DATA 	Keypress: space
+344.0806 	DATA 	Keypress: return
+344.1405 	EXP 	Sound  stopped
+344.1405 	EXP 	Sound  started
+344.1781 	EXP 	fundobranco2: autoDraw = False
+344.1781 	EXP 	balloonBody: autoDraw = False
+344.1781 	EXP 	molduraRM1: autoDraw = False
+344.1781 	EXP 	molduraRM2: autoDraw = False
+344.1781 	EXP 	molduraBVM: autoDraw = False
+344.1781 	EXP 	molduraBM: autoDraw = False
+344.1781 	EXP 	reminderMsg1: autoDraw = False
+344.1781 	EXP 	reminderMsg2: autoDraw = False
+344.1781 	EXP 	balloonValMsg: autoDraw = False
+344.1781 	EXP 	bankedMsg: autoDraw = False
+344.1781 	EXP 	fundobranco3: image = 'branco.jpeg'
+344.1781 	EXP 	feedbackMsg22: height = 0.09
+344.1781 	EXP 	feedbackMsg22: height = 0.09
+344.1781 	EXP 	feedbackMsg22: height = 0.09
+344.1781 	EXP 	feedbackMsg22: text = 'Guardou +4.0€'
+344.1781 	EXP 	fundobranco3: autoDraw = True
+344.1781 	EXP 	feedbackMsg22: autoDraw = True
+346.1378 	EXP 	New trial (rep=0, index=19): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 72}
+346.2603 	EXP 	fundobranco3: autoDraw = False
+346.2603 	EXP 	feedbackMsg22: autoDraw = False
+346.2603 	EXP 	fundobranco2: image = 'branco.jpeg'
+346.2603 	EXP 	balloonBody: image = 'redBalloon.png'
+346.2603 	EXP 	molduraRM1: image = 'molduraRM1e2.png'
+346.2603 	EXP 	molduraRM2: image = 'molduraRM1e2.png'
+346.2603 	EXP 	molduraBVM: image = 'molduraBVM.png'
+346.2603 	EXP 	molduraBM: image = 'Bau.png'
+346.2603 	EXP 	fundobranco2: autoDraw = True
+346.2603 	EXP 	balloonBody: autoDraw = True
+346.2603 	EXP 	molduraRM1: autoDraw = True
+346.2603 	EXP 	molduraRM2: autoDraw = True
+346.2603 	EXP 	molduraBVM: autoDraw = True
+346.2603 	EXP 	molduraBM: autoDraw = True
+346.2603 	EXP 	reminderMsg1: autoDraw = True
+346.2603 	EXP 	reminderMsg2: autoDraw = True
+346.2603 	EXP 	balloonValMsg: autoDraw = True
+346.2603 	EXP 	bankedMsg: autoDraw = True
+348.9648 	DATA 	Keypress: space
+349.5548 	DATA 	Keypress: space
+350.1680 	DATA 	Keypress: space
+350.7227 	DATA 	Keypress: space
+351.2491 	DATA 	Keypress: space
+351.8296 	DATA 	Keypress: space
+352.3818 	DATA 	Keypress: space
+352.9193 	DATA 	Keypress: space
+354.5712 	DATA 	Keypress: return
+354.6304 	EXP 	Sound  stopped
+354.6304 	EXP 	Sound  started
+354.6569 	EXP 	fundobranco2: autoDraw = False
+354.6569 	EXP 	balloonBody: autoDraw = False
+354.6569 	EXP 	molduraRM1: autoDraw = False
+354.6569 	EXP 	molduraRM2: autoDraw = False
+354.6569 	EXP 	molduraBVM: autoDraw = False
+354.6569 	EXP 	molduraBM: autoDraw = False
+354.6569 	EXP 	reminderMsg1: autoDraw = False
+354.6569 	EXP 	reminderMsg2: autoDraw = False
+354.6569 	EXP 	balloonValMsg: autoDraw = False
+354.6569 	EXP 	bankedMsg: autoDraw = False
+354.6569 	EXP 	fundobranco3: image = 'branco.jpeg'
+354.6569 	EXP 	feedbackMsg22: text = 'Guardou +4.0€'
+354.6569 	EXP 	fundobranco3: autoDraw = True
+354.6569 	EXP 	feedbackMsg22: autoDraw = True
+356.6203 	EXP 	New trial (rep=0, index=20): {'imageFile': 'blueBalloon.jpg', 'maxPumps': 66}
+356.7209 	EXP 	fundobranco3: autoDraw = False
+356.7209 	EXP 	feedbackMsg22: autoDraw = False
+356.7209 	EXP 	fundobranco2: image = 'branco.jpeg'
+356.7209 	EXP 	finalScore: height = 0.1
+356.7209 	EXP 	finalScore: height = 0.1
+356.7209 	EXP 	finalScore: height = 0.1
+356.7209 	EXP 	finalScore: text = 'Muito bem! Amealhou um total de 97.5€'
+356.7209 	EXP 	fundobranco4: autoDraw = True
+356.7209 	EXP 	finalScore: autoDraw = True
+361.6370 	EXP 	fundobranco4: autoDraw = False
+361.6370 	EXP 	finalScore: autoDraw = False
+361.6370 	EXP 	_fundo_branco_final: autoDraw = True
+361.6370 	EXP 	farwell_: autoDraw = True
+361.6370 	EXP 	smile_final: autoDraw = True
+369.6207 	EXP 	_fundo_branco_final: autoDraw = False
+369.6207 	EXP 	farwell_: autoDraw = False
+369.6207 	EXP 	smile_final: autoDraw = False
+369.6208 	EXP 	bart2: status = STOPPED
+370.2026 	EXP 	window1: mouseVisible = True

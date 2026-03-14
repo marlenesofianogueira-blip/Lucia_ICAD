@@ -1,0 +1,6 @@
+﻿imageFile,maxPumps,trials_2.thisRepN,trials_2.thisTrialN,trials_2.thisN,trials_2.thisIndex,resposta_.keys,resposta_.rt,mouse_1.x,mouse_1.y,mouse_1.leftButton,mouse_1.midButton,mouse_1.rightButton,mouse_1.time,mouse_1.clicked_name,mouse_2.x,mouse_2.y,mouse_2.leftButton,mouse_2.midButton,mouse_2.rightButton,mouse_2.time,mouse_2.clicked_name,bankButton.keys,bankButton.rt,nPumps,size,earnings,popped,subjResponse,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,,return,3.2585228670000106,,,,,,,,,,,,,,,,,,,,,,1222,001,2025-01-07_10h55.26.436,bart2,2022.2.2,None,
+,,,,,,,,[0.4328125],[-0.805],[1],[0],[0],[28.84519315099999],['seta_avançar'],,,,,,,,,,,,,,,1222,001,2025-01-07_10h55.26.436,bart2,2022.2.2,None,
+,,,,,,,,,,,,,,,[0.5015625],[-0.8225],[1],[0],[0],[14.08160758300005],['seta_avançar_2'],,,,,,,,1222,001,2025-01-07_10h55.26.436,bart2,2022.2.2,None,
+blueBalloon.jpg,60,0,0,0,59,,,,,,,,,,,,,,,,,return,17.55180915599999,42,0.73,21.0,False,42,1222,001,2025-01-07_10h55.26.436,bart2,2022.2.2,None,
+blueBalloon.jpg,55,0,1,1,54,,,,,,,,,,,,,,,,,return,11.73073846799997,41,0.715,20.5,False,41,1222,001,2025-01-07_10h55.26.436,bart2,2022.2.2,None,

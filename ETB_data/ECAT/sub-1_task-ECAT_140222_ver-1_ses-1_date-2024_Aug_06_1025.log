@@ -1,0 +1,391 @@
+30.2351 	WARNING 	User requested fullscreen with size [2560 1440], but screen is actually [1920, 1080]. Using actual size
+31.0320 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000207620A46D8>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000207620E7EB8>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+31.0325 	EXP 	window1: mouseVisible = True
+31.0326 	EXP 	window1: recordFrameIntervals = False
+31.1970 	EXP 	window1: recordFrameIntervals = True
+31.3810 	EXP 	window1: recordFrameIntervals = False
+31.5319 	EXP 	Created txt_checkFiles_start = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_checkFiles_start', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+31.5320 	EXP 	window1: mouseVisible = False
+31.6579 	EXP 	Created txt_checkFiles_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_checkFiles_end', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+31.6589 	EXP 	Created txt_resFileClashWarn = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_resFileClashWarn', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+31.6615 	EXP 	Created str_keyInst = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='str_keyInst', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=50)
+31.6627 	EXP 	Created txt_checkKeyMap = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_checkKeyMap', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+31.6803 	EXP 	Created text_checkKeyMapComplete = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_checkKeyMapComplete', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+31.6871 	EXP 	Created text_getReady = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_getReady', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='Prepare-se.', units='norm', win=Window(...), wrapWidth=1)
+31.6941 	EXP 	Created str_fixationcross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='str_fixationcross', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='\n+', units='norm', win=Window(...), wrapWidth=1)
+31.6964 	EXP 	Created im_trialWords = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='im_trialWords', opacity=1, ori=0, pos=array([ 0.  , -0.05]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+31.6973 	EXP 	Created str_rest = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='str_rest', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=60)
+31.7121 	EXP 	Created str_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='str_end', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=30)
+31.7473 	EXP 	txt_checkFiles_start: autoDraw = True
+33.7260 	EXP 	txt_checkFiles_start: autoDraw = False
+33.7260 	EXP 	txt_checkFiles_end: autoDraw = True
+34.2874 	DATA 	Mouse: Left button down, pos=(889,521)
+35.5208 	DATA 	Mouse:  Left button up, pos=(889,521)
+36.9329 	DATA 	Keypress: space
+36.9348 	EXP 	txt_checkFiles_end: autoDraw = False
+36.9348 	EXP 	txt_resFileClashWarn: text = 'Task: ECAT_140222\n\nParticipant ID: 1\nSession: 1 \n\n\nWARNING: Results files for this participant and session already exist\n\nAll results files have a unique timestamp, but this data will have the same participant and session identifiers as an existing data set.\n\nDo you want to continue with the entered participant & session information? \n\n\n[Researcher: Press Y to CONTINUE, press N to QUIT]'
+36.9348 	EXP 	txt_resFileClashWarn: autoDraw = False
+36.9348 	EXP 	str_keyInst: text = 'Nesta tarefa, serao apresentadas palavras que descrevem caracteristicas de personalidade.\n\nPor favor, imagine ouvir alguem descrevendo\no dessa forma.\n\nPressione o botao "NAO GOSTAVA" se nao gostasse de ser descrito dessa forma e o botao "GOSTAVA" se\ngostasse de ser descrito dessa forma.\n\nPor exemplo, ao ver a palavra "prestavel", se gostasse de ser descrito como tal, pressione "GOSTAVA".\nPelo contrario, se ao ver a palavra "aborrecido", nao gostasse de ser descrito como tal, entao\npressionaria "NAO GOSTAVA".\n\nPor favor, responda o mais rapido e preciso possivel.\n\nUtilize os dedos indicadores e mantenha os sobre os dois botoes de resposta durante toda a tarefa.\n\n\nPor favor, informe o investigador se estiver pronto para comecar.\n\n\n[Investigador: Pressione a BARRA DE ESPACO para iniciar a verificacao do mapa de teclas]'
+36.9348 	EXP 	str_keyInst: autoDraw = True
+53.5550 	DATA 	Keypress: space
+53.5807 	EXP 	Imported stimControl/keyMap.xlsx as conditions, 2 conditions, 3 params
+53.5813 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+53.5816 	EXP 	New trial (rep=0, index=0): {'key_disp': 'Q', 'resp_disp': 'GOSTAVA', 'key_inp': 'q'}
+53.5909 	EXP 	str_keyInst: autoDraw = False
+53.5909 	EXP 	txt_checkKeyMap: text = 'Pressione Q para GOSTAVA\n\n  [Pressione Q agora]'
+53.5909 	EXP 	txt_checkKeyMap: autoDraw = True
+57.2043 	EXP 	New trial (rep=0, index=1): {'key_disp': 'O', 'resp_disp': 'NÃO GOSTAVA', 'key_inp': 'o'}
+57.2174 	DATA 	Keypress: q
+57.2190 	EXP 	txt_checkKeyMap: autoDraw = False
+57.2190 	EXP 	txt_checkKeyMap: text = 'Pressione O para NÃO GOSTAVA\n\n    [Pressione O agora]'
+57.2190 	EXP 	txt_checkKeyMap: autoDraw = True
+58.4058 	DATA 	Keypress: o
+58.4297 	EXP 	txt_checkKeyMap: autoDraw = False
+58.4297 	EXP 	text_checkKeyMapComplete: autoDraw = True
+61.9429 	EXP 	Imported stimControl\chooseTrialOrderFile_ver-1.xlsx as conditions, 2 conditions, 1 params
+61.9435 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+61.9438 	EXP 	New trial (rep=0, index=0): {'trialOrderFile': 'stimControl/trialOrder_ver-1_block-1.xlsx'}
+61.9477 	DATA 	Keypress: space
+61.9493 	EXP 	text_checkKeyMapComplete: autoDraw = False
+61.9493 	EXP 	text_getReady: autoDraw = True
+63.9597 	EXP 	Imported stimControl/trialOrder_ver-1_block-1.xlsx as conditions, 20 conditions, 4 params
+63.9602 	EXP 	Created sequence: random, trialTypes=20, nReps=1, seed=None
+63.9605 	EXP 	New trial (rep=0, index=0): {'str_name': 'Sociável', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+63.9651 	EXP 	text_getReady: autoDraw = False
+63.9651 	EXP 	str_fixationcross: autoDraw = True
+64.4630 	EXP 	im_trialWords: autoDraw = True
+64.4799 	EXP 	str_fixationcross: autoDraw = False
+64.9633 	EXP 	im_trialWords: autoDraw = False
+65.2187 	DATA 	Keypress: q
+67.9507 	EXP 	New trial (rep=0, index=1): {'str_name': 'Decisivo', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+67.9632 	EXP 	str_fixationcross: autoDraw = False
+67.9632 	EXP 	im_trialWords: autoDraw = False
+67.9632 	EXP 	str_fixationcross: autoDraw = True
+68.4462 	EXP 	im_trialWords: autoDraw = True
+68.4633 	EXP 	str_fixationcross: autoDraw = False
+68.9465 	EXP 	im_trialWords: autoDraw = False
+69.1021 	DATA 	Keypress: q
+71.9334 	EXP 	New trial (rep=0, index=2): {'str_name': 'Compreensivo', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+71.9466 	EXP 	str_fixationcross: autoDraw = False
+71.9466 	EXP 	im_trialWords: autoDraw = False
+71.9466 	EXP 	str_fixationcross: autoDraw = True
+72.4295 	EXP 	im_trialWords: autoDraw = True
+72.4466 	EXP 	str_fixationcross: autoDraw = False
+72.9053 	DATA 	Keypress: q
+72.9297 	EXP 	im_trialWords: autoDraw = False
+75.9173 	EXP 	New trial (rep=0, index=3): {'str_name': 'Indelicado', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+75.9298 	EXP 	str_fixationcross: autoDraw = False
+75.9298 	EXP 	im_trialWords: autoDraw = False
+75.9298 	EXP 	str_fixationcross: autoDraw = True
+76.4129 	EXP 	im_trialWords: autoDraw = True
+76.4295 	EXP 	str_fixationcross: autoDraw = False
+76.9132 	EXP 	im_trialWords: autoDraw = False
+76.9539 	DATA 	Keypress: o
+79.9004 	EXP 	New trial (rep=0, index=4): {'str_name': 'Rude', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+79.9130 	EXP 	str_fixationcross: autoDraw = False
+79.9130 	EXP 	im_trialWords: autoDraw = False
+79.9130 	EXP 	str_fixationcross: autoDraw = True
+80.3964 	EXP 	im_trialWords: autoDraw = True
+80.4132 	EXP 	str_fixationcross: autoDraw = False
+80.8967 	EXP 	im_trialWords: autoDraw = False
+81.0014 	DATA 	Keypress: o
+83.8856 	EXP 	New trial (rep=0, index=5): {'str_name': 'Bisbilhoteiro', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+83.8965 	EXP 	str_fixationcross: autoDraw = False
+83.8965 	EXP 	im_trialWords: autoDraw = False
+83.8965 	EXP 	str_fixationcross: autoDraw = True
+84.3793 	EXP 	im_trialWords: autoDraw = True
+84.3964 	EXP 	str_fixationcross: autoDraw = False
+84.8797 	EXP 	im_trialWords: autoDraw = False
+85.1184 	DATA 	Keypress: o
+87.8674 	EXP 	New trial (rep=0, index=6): {'str_name': 'Pessimista', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+87.8796 	EXP 	str_fixationcross: autoDraw = False
+87.8796 	EXP 	im_trialWords: autoDraw = False
+87.8796 	EXP 	str_fixationcross: autoDraw = True
+88.3629 	EXP 	im_trialWords: autoDraw = True
+88.3795 	EXP 	str_fixationcross: autoDraw = False
+88.7700 	DATA 	Keypress: o
+88.8633 	EXP 	im_trialWords: autoDraw = False
+91.8506 	EXP 	New trial (rep=0, index=7): {'str_name': 'Agradecido', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+91.8631 	EXP 	str_fixationcross: autoDraw = False
+91.8631 	EXP 	im_trialWords: autoDraw = False
+91.8631 	EXP 	str_fixationcross: autoDraw = True
+92.3462 	EXP 	im_trialWords: autoDraw = True
+92.3628 	EXP 	str_fixationcross: autoDraw = False
+92.8463 	EXP 	im_trialWords: autoDraw = False
+92.9025 	DATA 	Keypress: q
+95.8330 	EXP 	New trial (rep=0, index=8): {'str_name': 'Engenhoso', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+95.8461 	EXP 	str_fixationcross: autoDraw = False
+95.8461 	EXP 	im_trialWords: autoDraw = False
+95.8461 	EXP 	str_fixationcross: autoDraw = True
+96.3294 	EXP 	im_trialWords: autoDraw = True
+96.3462 	EXP 	str_fixationcross: autoDraw = False
+96.8295 	EXP 	im_trialWords: autoDraw = False
+97.2262 	DATA 	Keypress: q
+99.8170 	EXP 	New trial (rep=0, index=9): {'str_name': 'Insultuoso', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+99.8327 	EXP 	str_fixationcross: autoDraw = False
+99.8327 	EXP 	im_trialWords: autoDraw = False
+99.8327 	EXP 	str_fixationcross: autoDraw = True
+100.3129 	EXP 	im_trialWords: autoDraw = True
+100.3462 	EXP 	str_fixationcross: autoDraw = False
+100.8129 	EXP 	im_trialWords: autoDraw = False
+100.8682 	DATA 	Keypress: o
+103.7998 	EXP 	New trial (rep=0, index=10): {'str_name': 'Sem vida', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+103.8129 	EXP 	str_fixationcross: autoDraw = False
+103.8129 	EXP 	im_trialWords: autoDraw = False
+103.8129 	EXP 	str_fixationcross: autoDraw = True
+104.2959 	EXP 	im_trialWords: autoDraw = True
+104.3131 	EXP 	str_fixationcross: autoDraw = False
+104.7959 	EXP 	im_trialWords: autoDraw = False
+104.9691 	DATA 	Keypress: o
+107.7834 	EXP 	New trial (rep=0, index=11): {'str_name': 'Insatisfeito', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+107.7955 	EXP 	str_fixationcross: autoDraw = False
+107.7955 	EXP 	im_trialWords: autoDraw = False
+107.7955 	EXP 	str_fixationcross: autoDraw = True
+108.2794 	EXP 	im_trialWords: autoDraw = True
+108.2956 	EXP 	str_fixationcross: autoDraw = False
+108.7795 	EXP 	im_trialWords: autoDraw = False
+108.7850 	DATA 	Keypress: o
+111.7673 	EXP 	New trial (rep=0, index=12): {'str_name': 'Agradável', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+111.7794 	EXP 	str_fixationcross: autoDraw = False
+111.7794 	EXP 	im_trialWords: autoDraw = False
+111.7794 	EXP 	str_fixationcross: autoDraw = True
+112.2627 	EXP 	im_trialWords: autoDraw = True
+112.2795 	EXP 	str_fixationcross: autoDraw = False
+112.7630 	EXP 	im_trialWords: autoDraw = False
+112.8514 	DATA 	Keypress: q
+115.7509 	EXP 	New trial (rep=0, index=13): {'str_name': 'Mente fechada', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+115.7629 	EXP 	str_fixationcross: autoDraw = False
+115.7629 	EXP 	im_trialWords: autoDraw = False
+115.7629 	EXP 	str_fixationcross: autoDraw = True
+116.2459 	EXP 	im_trialWords: autoDraw = True
+116.2627 	EXP 	str_fixationcross: autoDraw = False
+116.7461 	EXP 	im_trialWords: autoDraw = False
+117.4184 	DATA 	Keypress: q
+119.7325 	EXP 	New trial (rep=0, index=14): {'str_name': 'Lúcido', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+119.7459 	EXP 	str_fixationcross: autoDraw = False
+119.7459 	EXP 	im_trialWords: autoDraw = False
+119.7459 	EXP 	str_fixationcross: autoDraw = True
+120.2301 	EXP 	im_trialWords: autoDraw = True
+120.2459 	EXP 	str_fixationcross: autoDraw = False
+120.7294 	EXP 	im_trialWords: autoDraw = False
+120.8686 	DATA 	Keypress: q
+123.7163 	EXP 	New trial (rep=0, index=15): {'str_name': 'Desonesto', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+123.7297 	EXP 	str_fixationcross: autoDraw = False
+123.7297 	EXP 	im_trialWords: autoDraw = False
+123.7297 	EXP 	str_fixationcross: autoDraw = True
+124.2126 	EXP 	im_trialWords: autoDraw = True
+124.2294 	EXP 	str_fixationcross: autoDraw = False
+124.7129 	EXP 	im_trialWords: autoDraw = False
+124.8688 	DATA 	Keypress: o
+127.7010 	EXP 	New trial (rep=0, index=16): {'str_name': 'Amável', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+127.7129 	EXP 	str_fixationcross: autoDraw = False
+127.7129 	EXP 	im_trialWords: autoDraw = False
+127.7129 	EXP 	str_fixationcross: autoDraw = True
+128.1956 	EXP 	im_trialWords: autoDraw = True
+128.2125 	EXP 	str_fixationcross: autoDraw = False
+128.6951 	EXP 	im_trialWords: autoDraw = False
+128.7164 	DATA 	Keypress: q
+131.6833 	EXP 	New trial (rep=0, index=17): {'str_name': 'Interessante', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+131.6958 	EXP 	str_fixationcross: autoDraw = False
+131.6958 	EXP 	im_trialWords: autoDraw = False
+131.6958 	EXP 	str_fixationcross: autoDraw = True
+132.1791 	EXP 	im_trialWords: autoDraw = True
+132.1960 	EXP 	str_fixationcross: autoDraw = False
+132.6792 	EXP 	im_trialWords: autoDraw = False
+132.8180 	DATA 	Keypress: q
+135.6664 	EXP 	New trial (rep=0, index=18): {'str_name': 'Relaxado', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 'q'}
+135.6792 	EXP 	str_fixationcross: autoDraw = False
+135.6792 	EXP 	im_trialWords: autoDraw = False
+135.6792 	EXP 	str_fixationcross: autoDraw = True
+136.1624 	EXP 	im_trialWords: autoDraw = True
+136.1790 	EXP 	str_fixationcross: autoDraw = False
+136.6627 	EXP 	im_trialWords: autoDraw = False
+136.8680 	DATA 	Keypress: q
+139.6498 	EXP 	New trial (rep=0, index=19): {'str_name': 'Anti-social', 'str_valence': 'negative', 'str_block': 1, 'key_correct': 'o'}
+139.6623 	EXP 	str_fixationcross: autoDraw = False
+139.6623 	EXP 	im_trialWords: autoDraw = False
+139.6623 	EXP 	str_fixationcross: autoDraw = True
+140.1456 	EXP 	im_trialWords: autoDraw = True
+140.1619 	EXP 	str_fixationcross: autoDraw = False
+140.6457 	EXP 	im_trialWords: autoDraw = False
+140.7012 	DATA 	Keypress: o
+143.6508 	EXP 	str_fixationcross: autoDraw = False
+143.6508 	EXP 	im_trialWords: autoDraw = False
+143.6508 	EXP 	str_rest: text = 'Este é um período de repouso.\n\n Por favor informe o investigador quando estiver preparado para continuar.\n\n[Investigador: Pressione a BARRA de ESPAÇOS para continuar]'
+143.6508 	EXP 	str_rest: autoDraw = True
+145.4870 	DATA 	Keypress: space
+145.5025 	EXP 	New trial (rep=0, index=1): {'trialOrderFile': 'stimControl/trialOrder_ver-1_block-2.xlsx'}
+145.5123 	EXP 	str_rest: autoDraw = False
+145.5123 	EXP 	text_getReady: autoDraw = True
+147.5218 	EXP 	Imported stimControl/trialOrder_ver-1_block-2.xlsx as conditions, 20 conditions, 4 params
+147.5222 	EXP 	Created sequence: random, trialTypes=20, nReps=1, seed=None
+147.5225 	EXP 	New trial (rep=0, index=0): {'str_name': 'Tolerante', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+147.5269 	EXP 	text_getReady: autoDraw = False
+147.5269 	EXP 	text_getReady: autoDraw = False
+147.5269 	EXP 	str_fixationcross: autoDraw = True
+148.0289 	EXP 	str_fixationcross: autoDraw = False
+148.0289 	EXP 	im_trialWords: autoDraw = True
+148.5290 	EXP 	im_trialWords: autoDraw = False
+148.7512 	DATA 	Keypress: q
+151.5166 	EXP 	New trial (rep=0, index=1): {'str_name': 'Esbanjador', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+151.5289 	EXP 	str_fixationcross: autoDraw = False
+151.5289 	EXP 	im_trialWords: autoDraw = False
+151.5289 	EXP 	str_fixationcross: autoDraw = True
+152.0122 	EXP 	im_trialWords: autoDraw = True
+152.0314 	EXP 	str_fixationcross: autoDraw = False
+152.5125 	EXP 	im_trialWords: autoDraw = False
+152.8179 	DATA 	Keypress: o
+155.4990 	EXP 	New trial (rep=0, index=2): {'str_name': 'Equilibrado', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+155.5124 	EXP 	str_fixationcross: autoDraw = False
+155.5124 	EXP 	im_trialWords: autoDraw = False
+155.5124 	EXP 	str_fixationcross: autoDraw = True
+155.9952 	EXP 	im_trialWords: autoDraw = True
+156.0122 	EXP 	str_fixationcross: autoDraw = False
+156.4957 	EXP 	im_trialWords: autoDraw = False
+156.6174 	DATA 	Keypress: q
+159.4822 	EXP 	New trial (rep=0, index=3): {'str_name': 'Culto', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+159.4955 	EXP 	str_fixationcross: autoDraw = False
+159.4955 	EXP 	im_trialWords: autoDraw = False
+159.4955 	EXP 	str_fixationcross: autoDraw = True
+159.9788 	EXP 	im_trialWords: autoDraw = True
+159.9956 	EXP 	str_fixationcross: autoDraw = False
+160.4789 	EXP 	im_trialWords: autoDraw = False
+160.6839 	DATA 	Keypress: q
+163.4661 	EXP 	New trial (rep=0, index=4): {'str_name': 'Alegre', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+163.4787 	EXP 	str_fixationcross: autoDraw = False
+163.4787 	EXP 	im_trialWords: autoDraw = False
+163.4787 	EXP 	str_fixationcross: autoDraw = True
+163.9622 	EXP 	im_trialWords: autoDraw = True
+163.9787 	EXP 	str_fixationcross: autoDraw = False
+164.4622 	EXP 	im_trialWords: autoDraw = False
+164.5013 	DATA 	Keypress: q
+167.4491 	EXP 	New trial (rep=0, index=5): {'str_name': 'Realista', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+167.4623 	EXP 	str_fixationcross: autoDraw = False
+167.4623 	EXP 	im_trialWords: autoDraw = False
+167.4623 	EXP 	str_fixationcross: autoDraw = True
+167.9454 	EXP 	im_trialWords: autoDraw = True
+167.9624 	EXP 	str_fixationcross: autoDraw = False
+168.4460 	EXP 	im_trialWords: autoDraw = False
+168.4519 	DATA 	Keypress: q
+171.4329 	EXP 	New trial (rep=0, index=6): {'str_name': 'Negligente', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+171.4453 	EXP 	str_fixationcross: autoDraw = False
+171.4453 	EXP 	im_trialWords: autoDraw = False
+171.4453 	EXP 	str_fixationcross: autoDraw = True
+171.9284 	EXP 	im_trialWords: autoDraw = True
+171.9453 	EXP 	str_fixationcross: autoDraw = False
+172.4286 	EXP 	im_trialWords: autoDraw = False
+172.7509 	DATA 	Keypress: o
+175.4163 	EXP 	New trial (rep=0, index=7): {'str_name': 'Feliz', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+175.4286 	EXP 	str_fixationcross: autoDraw = False
+175.4286 	EXP 	im_trialWords: autoDraw = False
+175.4286 	EXP 	str_fixationcross: autoDraw = True
+175.9117 	EXP 	im_trialWords: autoDraw = True
+175.9284 	EXP 	str_fixationcross: autoDraw = False
+176.4119 	EXP 	im_trialWords: autoDraw = False
+176.4670 	DATA 	Keypress: q
+179.3991 	EXP 	New trial (rep=0, index=8): {'str_name': 'Perspicaz', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+179.4122 	EXP 	str_fixationcross: autoDraw = False
+179.4122 	EXP 	im_trialWords: autoDraw = False
+179.4122 	EXP 	str_fixationcross: autoDraw = True
+179.8952 	EXP 	im_trialWords: autoDraw = True
+179.9122 	EXP 	str_fixationcross: autoDraw = False
+180.3954 	EXP 	im_trialWords: autoDraw = False
+180.6173 	DATA 	Keypress: q
+183.3823 	EXP 	New trial (rep=0, index=9): {'str_name': 'Abusivo', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+183.3955 	EXP 	str_fixationcross: autoDraw = False
+183.3955 	EXP 	im_trialWords: autoDraw = False
+183.3955 	EXP 	str_fixationcross: autoDraw = True
+183.8787 	EXP 	im_trialWords: autoDraw = True
+183.8953 	EXP 	str_fixationcross: autoDraw = False
+184.3786 	EXP 	im_trialWords: autoDraw = False
+184.7007 	DATA 	Keypress: o
+187.3673 	EXP 	New trial (rep=0, index=10): {'str_name': 'Falso ', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+187.3784 	EXP 	str_fixationcross: autoDraw = False
+187.3784 	EXP 	im_trialWords: autoDraw = False
+187.3784 	EXP 	str_fixationcross: autoDraw = True
+187.8619 	EXP 	im_trialWords: autoDraw = True
+187.8784 	EXP 	str_fixationcross: autoDraw = False
+188.3620 	EXP 	im_trialWords: autoDraw = False
+188.3836 	DATA 	Keypress: o
+191.3497 	EXP 	New trial (rep=0, index=11): {'str_name': 'Irritado', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+191.3619 	EXP 	str_fixationcross: autoDraw = False
+191.3619 	EXP 	im_trialWords: autoDraw = False
+191.3619 	EXP 	str_fixationcross: autoDraw = True
+191.8452 	EXP 	im_trialWords: autoDraw = True
+191.8620 	EXP 	str_fixationcross: autoDraw = False
+192.3455 	EXP 	im_trialWords: autoDraw = False
+192.6676 	DATA 	Keypress: o
+195.3334 	EXP 	New trial (rep=0, index=12): {'str_name': 'Desagradável', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+195.3451 	EXP 	str_fixationcross: autoDraw = False
+195.3451 	EXP 	im_trialWords: autoDraw = False
+195.3451 	EXP 	str_fixationcross: autoDraw = True
+195.8283 	EXP 	im_trialWords: autoDraw = True
+195.8452 	EXP 	str_fixationcross: autoDraw = False
+196.3286 	EXP 	im_trialWords: autoDraw = False
+196.4843 	DATA 	Keypress: o
+199.3157 	EXP 	New trial (rep=0, index=13): {'str_name': 'Crítico', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+199.3283 	EXP 	str_fixationcross: autoDraw = False
+199.3283 	EXP 	im_trialWords: autoDraw = False
+199.3283 	EXP 	str_fixationcross: autoDraw = True
+199.8116 	EXP 	im_trialWords: autoDraw = True
+199.8284 	EXP 	str_fixationcross: autoDraw = False
+200.3116 	EXP 	im_trialWords: autoDraw = False
+200.4507 	DATA 	Keypress: o
+203.2992 	EXP 	New trial (rep=0, index=14): {'str_name': 'Charmoso', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+203.3116 	EXP 	str_fixationcross: autoDraw = False
+203.3116 	EXP 	im_trialWords: autoDraw = False
+203.3116 	EXP 	str_fixationcross: autoDraw = True
+203.7950 	EXP 	im_trialWords: autoDraw = True
+203.8118 	EXP 	str_fixationcross: autoDraw = False
+204.2950 	EXP 	im_trialWords: autoDraw = False
+204.4506 	DATA 	Keypress: q
+207.2825 	EXP 	New trial (rep=0, index=15): {'str_name': 'Intrometido', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+207.2948 	EXP 	str_fixationcross: autoDraw = False
+207.2948 	EXP 	im_trialWords: autoDraw = False
+207.2948 	EXP 	str_fixationcross: autoDraw = True
+207.7782 	EXP 	im_trialWords: autoDraw = True
+207.7949 	EXP 	str_fixationcross: autoDraw = False
+208.2785 	EXP 	im_trialWords: autoDraw = False
+208.4671 	DATA 	Keypress: o
+211.2657 	EXP 	New trial (rep=0, index=16): {'str_name': 'Organizado', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+211.2784 	EXP 	str_fixationcross: autoDraw = False
+211.2784 	EXP 	im_trialWords: autoDraw = False
+211.2784 	EXP 	str_fixationcross: autoDraw = True
+211.7615 	EXP 	im_trialWords: autoDraw = True
+211.7781 	EXP 	str_fixationcross: autoDraw = False
+212.2617 	EXP 	im_trialWords: autoDraw = False
+212.5673 	DATA 	Keypress: q
+215.2488 	EXP 	New trial (rep=0, index=17): {'str_name': 'Agradável', 'str_valence': 'positive', 'str_block': 2, 'key_correct': 'q'}
+215.2618 	EXP 	str_fixationcross: autoDraw = False
+215.2618 	EXP 	im_trialWords: autoDraw = False
+215.2618 	EXP 	str_fixationcross: autoDraw = True
+215.7448 	EXP 	im_trialWords: autoDraw = True
+215.7614 	EXP 	str_fixationcross: autoDraw = False
+216.2450 	EXP 	im_trialWords: autoDraw = False
+216.4316 	DATA 	Keypress: q
+219.2298 	EXP 	New trial (rep=0, index=18): {'str_name': 'Rígido', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+219.2441 	EXP 	str_fixationcross: autoDraw = False
+219.2441 	EXP 	im_trialWords: autoDraw = False
+219.2441 	EXP 	str_fixationcross: autoDraw = True
+219.7275 	EXP 	im_trialWords: autoDraw = True
+219.7442 	EXP 	str_fixationcross: autoDraw = False
+220.2275 	EXP 	im_trialWords: autoDraw = False
+220.4170 	DATA 	Keypress: o
+223.2160 	EXP 	New trial (rep=0, index=19): {'str_name': 'Neurótico', 'str_valence': 'negative', 'str_block': 2, 'key_correct': 'o'}
+223.2280 	EXP 	str_fixationcross: autoDraw = False
+223.2280 	EXP 	im_trialWords: autoDraw = False
+223.2280 	EXP 	str_fixationcross: autoDraw = True
+223.7112 	EXP 	im_trialWords: autoDraw = True
+223.7280 	EXP 	str_fixationcross: autoDraw = False
+224.2117 	EXP 	im_trialWords: autoDraw = False
+224.4836 	DATA 	Keypress: o
+227.2117 	EXP 	str_fixationcross: autoDraw = False
+227.2117 	EXP 	im_trialWords: autoDraw = False
+227.2117 	EXP 	str_rest: text = 'Este é um período de repouso.\n\n Por favor informe o investigador quando estiver preparado para continuar.\n\n[Investigador: Pressione a BARRA de ESPAÇOS para continuar]'
+227.2117 	EXP 	str_rest: autoDraw = True
+229.7360 	DATA 	Keypress: space
+229.7614 	EXP 	str_rest: autoDraw = False
+229.7614 	EXP 	str_end: autoDraw = True
+232.2506 	DATA 	Keypress: space
+232.2614 	EXP 	str_end: autoDraw = False
+232.4183 	EXP 	window1: mouseVisible = True

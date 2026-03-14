@@ -1,0 +1,59 @@
+15.2734 	WARNING 	User requested fullscreen with size [2560 1440], but screen is actually [1920, 1080]. Using actual size
+16.1229 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000015FA6DD6E80>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000015FA6E2C6A0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.1234 	EXP 	window1: mouseVisible = True
+16.1235 	EXP 	window1: recordFrameIntervals = False
+16.2884 	EXP 	window1: recordFrameIntervals = True
+16.4718 	EXP 	window1: recordFrameIntervals = False
+16.6304 	EXP 	Created txt_checkFiles_start = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_checkFiles_start', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+16.6305 	EXP 	window1: mouseVisible = False
+16.7393 	EXP 	Created txt_checkFiles_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_checkFiles_end', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+16.7404 	EXP 	Created txt_resFileClashWarn = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_resFileClashWarn', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+16.7420 	EXP 	Created str_keyInst = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='str_keyInst', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=50)
+16.7429 	EXP 	Created txt_checkKeyMap = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='txt_checkKeyMap', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+16.7574 	EXP 	Created text_checkKeyMapComplete = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_checkKeyMapComplete', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+16.7643 	EXP 	Created text_getReady = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_getReady', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='Get ready.', units='norm', win=Window(...), wrapWidth=1)
+16.7705 	EXP 	Created str_fixationcross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='str_fixationcross', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='\n+', units='norm', win=Window(...), wrapWidth=1)
+16.7715 	EXP 	Created im_trialWords = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='im_trialWords', opacity=1, ori=0, pos=array([ 0.  , -0.05]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+16.7724 	EXP 	Created str_rest = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='str_rest', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=60)
+16.7851 	EXP 	Created str_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier New', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='str_end', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=30)
+16.8185 	EXP 	txt_checkFiles_start: autoDraw = True
+18.7984 	EXP 	txt_checkFiles_start: autoDraw = False
+18.7984 	EXP 	txt_checkFiles_end: autoDraw = True
+20.5307 	DATA 	Keypress: space
+20.6042 	EXP 	txt_checkFiles_end: autoDraw = False
+20.6042 	EXP 	txt_resFileClashWarn: text = 'Task: EMEM_140222\n\nParticipant ID: 99\nSession: 1 \n\n\nWARNING: Results files for this participant and task version already exist\n\nAll results files have a unique timestamp, but this data will have the same participant and session identifiers as an existing data set.\n\nDo you want to continue with the entered participant & session information? \n\n\n[Researcher: Press Y to CONTINUE, press N to QUIT]'
+20.6042 	EXP 	txt_resFileClashWarn: autoDraw = False
+20.6042 	EXP 	str_keyInst: text = 'Nesta tarefa, serao apresentadas palavras que descrevem\ncaracteristicas de personalidade.\n\nPara cada uma dessas palavras, por favor decida se a palavra\nfoi apresentada na tarefa anterior que realizou (onde tinha\nde decidir se gostaria ou nao de ser descrito com uma\ndeterminada caracteristica de personalidade).\n\nPressione o botao "SIM" se a palavra foi apresentada na\ntarefa anterior e pressione "NAO" se nÃ£o foi apresentada na\ntarefa anterior.\n\nPor favor, responda o mais rapido e precisamente possivel.\n\nUtilize os dedos indicadores e mantenha\nos sobre os dois\nbotoes de resposta durante toda a tarefa.\n\nA tarefa durara cerca de 15 minutos.\n\nPor favor, informe o investigador se estiver pronto para\ncomeÃ§ar.\n\n\n[Investigador: Pressione a BARRA DE ESPCO para iniciar a\nverificacao do mapa de teclas]'
+20.6042 	EXP 	str_keyInst: autoDraw = True
+30.2386 	EXP 	Imported stimControl/keyMap.xlsx as conditions, 2 conditions, 3 params
+30.2392 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+30.2395 	EXP 	New trial (rep=0, index=0): {'key_disp': 1, 'resp_disp': 'SIM', 'key_inp': 1}
+30.2461 	DATA 	Keypress: space
+30.2476 	EXP 	str_keyInst: autoDraw = False
+30.2476 	EXP 	txt_checkKeyMap: text = 'Pressione 1 para SIM\n\n[Pressione 1 agora]'
+30.2476 	EXP 	txt_checkKeyMap: autoDraw = True
+32.8338 	EXP 	New trial (rep=0, index=1): {'key_disp': 0, 'resp_disp': 'NÃO', 'key_inp': 0}
+32.8392 	DATA 	Keypress: 1
+32.8407 	EXP 	txt_checkKeyMap: autoDraw = False
+32.8407 	EXP 	txt_checkKeyMap: text = 'Pressione 0 para NÃO\n\n[Pressione 0 agora]'
+32.8407 	EXP 	txt_checkKeyMap: autoDraw = True
+33.8975 	DATA 	Keypress: 0
+33.9039 	EXP 	txt_checkKeyMap: autoDraw = False
+33.9039 	EXP 	text_checkKeyMapComplete: autoDraw = True
+36.8146 	EXP 	Imported stimControl\chooseTrialOrderFile_ver-1.xlsx as conditions, 2 conditions, 1 params
+36.8151 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+36.8153 	EXP 	New trial (rep=0, index=0): {'trialOrderFile': 'stimControl/trialOrder_ver-1_block-1.xlsx'}
+36.8193 	DATA 	Keypress: space
+36.8207 	EXP 	text_checkKeyMapComplete: autoDraw = False
+36.8207 	EXP 	text_getReady: autoDraw = True
+38.8277 	EXP 	Imported stimControl/trialOrder_ver-1_block-1.xlsx as conditions, 40 conditions, 5 params
+38.8282 	EXP 	Created sequence: random, trialTypes=40, nReps=1, seed=None
+38.8285 	EXP 	New trial (rep=0, index=0): {'str_name': 'Wise', 'str_familiarity': 'Familiar', 'str_valence': 'positive', 'str_block': 1, 'key_correct': 1}
+38.8328 	EXP 	text_getReady: autoDraw = False
+38.8328 	EXP 	text_getReady: autoDraw = False
+38.8328 	EXP 	str_fixationcross: autoDraw = True
+39.3207 	EXP 	im_trialWords: autoDraw = True
+39.3373 	EXP 	str_fixationcross: autoDraw = False
+39.8208 	EXP 	im_trialWords: autoDraw = False
+40.3094 	DATA 	Keypress: escape
+40.6390 	EXP 	window1: mouseVisible = True
